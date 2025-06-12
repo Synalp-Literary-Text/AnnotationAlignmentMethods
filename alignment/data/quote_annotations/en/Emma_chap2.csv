@@ -1,0 +1,2 @@
+qId,qTextArr,qSpan,qText,speaker,addressee,qType,refExp,menTexts,menSpans,menEnts
+Q36,"['Ah, poor Miss Taylor! She would be very glad to stay.']","[[26276, 26329]]","Ah, poor Miss Taylor! She would be very glad to stay.",Mr. Woodhouse,[],Explicit,Mr Woodhouses giving a gentle sigh and saying,"[['poor Miss Taylor', 'She']]","[[[26280, 26296], [26298, 26301]]]","[[['Mrs. Weston'], ['Mrs. Weston']]]"

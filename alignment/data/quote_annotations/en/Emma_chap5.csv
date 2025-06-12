@@ -1,0 +1,160 @@
+qId,qTextArr,qSpan,qText,speaker,addressee,qType,refExp,menTexts,menSpans,menEnts
+Q71,"['I do not know what your opinion may be, Mrs. Weston,', 'of this great intimacy between Emma and Harriet Smith, but I\nthink it a bad thing.']","[[57630, 57682], [57705, 57787]]","I do not know what your opinion may be, Mrs. Weston, of this great intimacy between Emma and Harriet Smith, but I
+think it a bad thing.",Mr. Knightley,['Mrs. Weston'],Explicit,said Mr Knightley,"[['Mrs. Weston'], ['Emma', 'Harriet Smith']]","[[[57670, 57681]], [[57736, 57740], [57745, 57758]]]","[[['Mrs. Weston']], [['Emma'], ['Harriet Smith']]]"
+Q72,['A bad thing! Do you really think it a bad thing?--why so?'],"[[57791, 57848]]",A bad thing! Do you really think it a bad thing?--why so?,Mrs. Weston,['Mr. Knightley'],Implicit,,[['you']],"[[[57807, 57810]]]",[[['Mr. Knightley']]]
+Q73,['I think they will neither of them do the other any good.'],"[[57852, 57908]]",I think they will neither of them do the other any good.,Mr. Knightley,['Mrs. Weston'],Implicit,,"[['they', 'them']]","[[[57860, 57864], [57881, 57885]]]","[[['Emma', 'Harriet Smith'], ['Emma', 'Harriet Smith']]]"
+Q74,"['You surprize me! Emma must do Harriet good: and by supplying her with a\nnew object of interest, Harriet may be said to do Emma good. I have been\nseeing their intimacy with the greatest pleasure. How very differently\nwe feel!--Not think they will do each other any good! This will\ncertainly be the beginning of one of our quarrels about Emma, Mr.\nKnightley.']","[[57912, 58268]]","You surprize me! Emma must do Harriet good: and by supplying her with a
+new object of interest, Harriet may be said to do Emma good. I have been
+seeing their intimacy with the greatest pleasure. How very differently
+we feel!--Not think they will do each other any good! This will
+certainly be the beginning of one of our quarrels about Emma, Mr.
+Knightley.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['You', 'Emma', 'Harriet', 'Harriet', 'Emma', 'their', 'we', 'they', 'Emma', 'Mr.\nKnightley']]","[[[57912, 57915], [57929, 57933], [57942, 57949], [58008, 58015], [58034, 58038], [58064, 58069], [58128, 58130], [58148, 58152], [58248, 58252], [58254, 58267]]]","[[['Mr. Knightley'], ['Emma'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Emma', 'Harriet Smith'], ['Mrs. Weston', 'Mr. Knightley'], ['Emma', 'Harriet Smith'], ['Emma'], ['Mr. Knightley']]]"
+Q75,"['Perhaps you think I am come on purpose to quarrel with you, knowing\nWeston to be out, and that you must still fight your own battle.']","[[58272, 58404]]","Perhaps you think I am come on purpose to quarrel with you, knowing
+Weston to be out, and that you must still fight your own battle.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['you', 'you', 'Weston', 'you', 'your']]","[[[58280, 58283], [58327, 58330], [58340, 58346], [58367, 58370], [58388, 58392]]]","[[['Mrs. Weston'], ['Mrs. Weston'], ['Mr. Weston'], ['Mrs. Weston'], ['Mrs. Weston']]]"
+Q76,"[""Mr. Weston would undoubtedly support me, if he were here, for he thinks\nexactly as I do on the subject. We were speaking of it only yesterday,\nand agreeing how fortunate it was for Emma, that there should be such a\ngirl in Highbury for her to associate with. Mr. Knightley, I shall not\nallow you to be a fair judge in this case. You are so much used to live\nalone, that you do not know the value of a companion; and, perhaps no\nman can be a good judge of the comfort a woman feels in the society of\none of her own sex, after being used to it all her life. I can imagine\nyour objection to Harriet Smith. She is not the superior young woman\nwhich Emma's friend ought to be. But on the other hand, as Emma wants\nto see her better informed, it will be an inducement to her to read more\nherself. They will read together. She means it, I know.""]","[[58408, 59245]]","Mr. Weston would undoubtedly support me, if he were here, for he thinks
+exactly as I do on the subject. We were speaking of it only yesterday,
+and agreeing how fortunate it was for Emma, that there should be such a
+girl in Highbury for her to associate with. Mr. Knightley, I shall not
+allow you to be a fair judge in this case. You are so much used to live
+alone, that you do not know the value of a companion; and, perhaps no
+man can be a good judge of the comfort a woman feels in the society of
+one of her own sex, after being used to it all her life. I can imagine
+your objection to Harriet Smith. She is not the superior young woman
+which Emma's friend ought to be. But on the other hand, as Emma wants
+to see her better informed, it will be an inducement to her to read more
+herself. They will read together. She means it, I know.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['Mr. Weston', 'he', 'he', 'We', 'Emma', 'Mr. Knightley', 'you', 'You', 'you', 'your', 'Harriet Smith', 'She', 'Emma', 'Emma', 'her', 'her', 'They', 'She']]","[[[58408, 58418], [58452, 58454], [58470, 58472], [58512, 58514], [58589, 58593], [58667, 58680], [58700, 58703], [58737, 58740], [58778, 58781], [58978, 58982], [58996, 59009], [59011, 59014], [59053, 59057], [59106, 59110], [59124, 59127], [59173, 59176], [59199, 59203], [59224, 59227]]]","[[['Mr. Weston'], ['Mr. Weston'], ['Mr. Weston'], ['Mr. Weston', 'Mrs. Weston'], ['Emma'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Emma'], ['Harriet Smith'], ['Emma'], ['Emma', 'Harriet Smith'], ['Emma']]]"
+Q77,"['Emma has been meaning to read more ever since she was twelve years old.\nI have seen a great many lists of her drawing-up at various times of\nbooks that she meant to read regularly through--and very good lists\nthey were--very well chosen, and very neatly arranged--sometimes\nalphabetically, and sometimes by some other rule. The list she drew\nup when only fourteen--I remember thinking it did her judgment so much\ncredit, that I preserved it some time; and I dare say she may have made\nout a very good list now. But I have done with expecting any course of\nsteady reading from Emma. She will never submit to any thing\nrequiring industry and patience, and a subjection of the fancy to the\nunderstanding. Where Miss Taylor failed to stimulate, I may safely\naffirm that Harriet Smith will do nothing.--You never could persuade her\nto read half so much as you wished.--You know you could not.']","[[59249, 60136]]","Emma has been meaning to read more ever since she was twelve years old.
+I have seen a great many lists of her drawing-up at various times of
+books that she meant to read regularly through--and very good lists
+they were--very well chosen, and very neatly arranged--sometimes
+alphabetically, and sometimes by some other rule. The list she drew
+up when only fourteen--I remember thinking it did her judgment so much
+credit, that I preserved it some time; and I dare say she may have made
+out a very good list now. But I have done with expecting any course of
+steady reading from Emma. She will never submit to any thing
+requiring industry and patience, and a subjection of the fancy to the
+understanding. Where Miss Taylor failed to stimulate, I may safely
+affirm that Harriet Smith will do nothing.--You never could persuade her
+to read half so much as you wished.--You know you could not.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['Emma', 'she', 'her', 'she', 'she', 'her', 'she', 'Emma', 'She', 'Miss Taylor', 'Harriet Smith', 'You', 'her', 'you', 'You', 'you']]","[[[59249, 59253], [59295, 59298], [59355, 59358], [59401, 59404], [59582, 59585], [59641, 59644], [59716, 59719], [59825, 59829], [59831, 59834], [59957, 59968], [60015, 60028], [60047, 60050], [60072, 60075], [60100, 60103], [60113, 60116], [60122, 60125]]]","[[['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Mrs. Weston'], ['Harriet Smith'], ['Mrs. Weston'], ['Emma'], ['Mrs. Weston'], ['Mrs. Weston'], ['Mrs. Weston']]]"
+Q78,"['I dare say,', ""that I thought so\n_then_;--but since we have parted, I can never remember Emma's omitting\nto do any thing I wished.""]","[[60140, 60151], [60184, 60299]]","I dare say, that I thought so
+_then_;--but since we have parted, I can never remember Emma's omitting
+to do any thing I wished.",Mrs. Weston,['Mr. Knightley'],Explicit,replied Mrs Weston,"[[], ['we', 'Emma']]","[[], [[60221, 60223], [60258, 60262]]]","[[], [['Emma', 'Mrs. Weston'], ['Emma']]]"
+Q79,"['There is hardly any desiring to refresh such a memory as _that_,']","[[60303, 60367]]","There is hardly any desiring to refresh such a memory as _that_,",Mr. Knightley,['Mrs. Weston'],Explicit,said Mr Knightley,[[]],[[]],[[]]
+Q80,"['But I,', ""who have had no such charm thrown over my senses, must\nstill see, hear, and remember. Emma is spoiled by being the cleverest\nof her family. At ten years old, she had the misfortune of being able to\nanswer questions which puzzled her sister at seventeen. She was always\nquick and assured: Isabella slow and diffident. And ever since she\nwas twelve, Emma has been mistress of the house and of you all. In her\nmother she lost the only person able to cope with her. She inherits her\nmother's talents, and must have been under subjection to her.""]","[[60439, 60445], [60464, 61004]]","But I, who have had no such charm thrown over my senses, must
+still see, hear, and remember. Emma is spoiled by being the cleverest
+of her family. At ten years old, she had the misfortune of being able to
+answer questions which puzzled her sister at seventeen. She was always
+quick and assured: Isabella slow and diffident. And ever since she
+was twelve, Emma has been mistress of the house and of you all. In her
+mother she lost the only person able to cope with her. She inherits her
+mother's talents, and must have been under subjection to her.",Mr. Knightley,['Mrs. Weston'],Anaphoric,he soon added,"[[], ['Emma', 'her', 'she', 'her sister', 'She', 'Isabella', 'Emma', 'you all', 'her', 'she', 'her', 'She', 'her', 'her']]","[[], [[60550, 60554], [60592, 60595], [60622, 60625], [60693, 60703], [60718, 60721], [60752, 60760], [60812, 60816], [60855, 60862], [60867, 60870], [60878, 60881], [60921, 60924], [60926, 60929], [60939, 60942], [61000, 61003]]]","[[], [['Emma'], ['Emma'], ['Emma'], ['Isabella'], ['Emma'], ['Isabella'], ['Emma'], ['Isabella', 'Mr. Woodhouse', 'Mrs. Weston'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma']]]"
+Q81,"[""I should have been sorry, Mr. Knightley, to be dependent on _your_\nrecommendation, had I quitted Mr. Woodhouse's family and wanted another\nsituation; I do not think you would have spoken a good word for me to\nany body. I am sure you always thought me unfit for the office I held.""]","[[61008, 61287]]","I should have been sorry, Mr. Knightley, to be dependent on _your_
+recommendation, had I quitted Mr. Woodhouse's family and wanted another
+situation; I do not think you would have spoken a good word for me to
+any body. I am sure you always thought me unfit for the office I held.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['Mr. Knightley', 'your', 'Mr. Woodhouse', 'you', 'you']]","[[[61034, 61047], [61069, 61073], [61105, 61118], [61173, 61176], [61237, 61240]]]","[[['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Woodhouse'], ['Mr. Knightley'], ['Mr. Knightley']]]"
+Q82,"['Yes,', 'You are better placed _here_; very fit for a\nwife, but not at all for a governess. But you were preparing yourself to\nbe an excellent wife all the time you were at Hartfield. You might\nnot give Emma such a complete education as your powers would seem to\npromise; but you were receiving a very good education from _her_, on the\nvery material matrimonial point of submitting your own will, and doing\nas you were bid; and if Weston had asked me to recommend him a wife, I\nshould certainly have named Miss Taylor.']","[[61291, 61295], [61316, 61825]]","Yes, You are better placed _here_; very fit for a
+wife, but not at all for a governess. But you were preparing yourself to
+be an excellent wife all the time you were at Hartfield. You might
+not give Emma such a complete education as your powers would seem to
+promise; but you were receiving a very good education from _her_, on the
+very material matrimonial point of submitting your own will, and doing
+as you were bid; and if Weston had asked me to recommend him a wife, I
+should certainly have named Miss Taylor.",Mr. Knightley,['Mrs. Weston'],Anaphoric,said he,"[[], ['You', 'you', 'you', 'You', 'Emma', 'you', 'her', 'you', 'Weston', 'him', 'Miss Taylor']]","[[], [[61316, 61319], [61403, 61406], [61468, 61471], [61491, 61494], [61510, 61514], [61583, 61586], [61630, 61633], [61717, 61720], [61738, 61744], [61771, 61774], [61813, 61824]]]","[[], [['Mrs. Weston'], ['Mrs. Weston'], ['Mrs. Weston'], ['Mrs. Weston'], ['Emma'], ['Mrs. Weston'], ['Emma'], ['Mrs. Weston'], ['Mr. Weston'], ['Mr. Weston'], ['Mrs. Weston']]]"
+Q83,['Thank you. There will be very little merit in making a good wife to\nsuch a man as Mr. Weston.'],"[[61829, 61922]]","Thank you. There will be very little merit in making a good wife to
+such a man as Mr. Weston.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['you', 'Mr. Weston']]","[[[61835, 61838], [61911, 61921]]]","[[['Mr. Knightley'], ['Mr. Weston']]]"
+Q84,"['Why, to own the truth, I am afraid you are rather thrown away, and that\nwith every disposition to bear, there will be nothing to be borne. We\nwill not despair, however. Weston may grow cross from the wantonness of\ncomfort, or his son may plague him.']","[[61926, 62175]]","Why, to own the truth, I am afraid you are rather thrown away, and that
+with every disposition to bear, there will be nothing to be borne. We
+will not despair, however. Weston may grow cross from the wantonness of
+comfort, or his son may plague him.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['you', 'We', 'Weston', 'his son', 'him']]","[[[61961, 61964], [62065, 62067], [62095, 62101], [62152, 62159], [62171, 62174]]]","[[['Mrs. Weston'], ['Mr. Knightley', 'Mrs. Weston'], ['Mr. Weston'], ['Mr. Frank Churchill'], ['Mr. Weston']]]"
+Q85,"['I hope not _that_.--It is not likely. No, Mr. Knightley, do not\nforetell vexation from that quarter.']","[[62179, 62279]]","I hope not _that_.--It is not likely. No, Mr. Knightley, do not
+foretell vexation from that quarter.",Mrs. Weston,['Mr. Knightley'],Implicit,,[['Mr. Knightley']],"[[[62221, 62234]]]",[[['Mr. Knightley']]]
+Q86,"[""Not I, indeed. I only name possibilities. I do not pretend to Emma's\ngenius for foretelling and guessing. I hope, with all my heart, the\nyoung man may be a Weston in merit, and a Churchill in fortune.--But\nHarriet Smith--I have not half done about Harriet Smith. I think her the\nvery worst sort of companion that Emma could possibly have. She knows\nnothing herself, and looks upon Emma as knowing every thing. She is a\nflatterer in all her ways; and so much the worse, because undesigned.\nHer ignorance is hourly flattery. How can Emma imagine she has any\nthing to learn herself, while Harriet is presenting such a delightful\ninferiority? And as for Harriet, I will venture to say that _she_ cannot\ngain by the acquaintance. Hartfield will only put her out of conceit\nwith all the other places she belongs to. She will grow just refined\nenough to be uncomfortable with those among whom birth and circumstances\nhave placed her home. I am much mistaken if Emma's doctrines give any\nstrength of mind, or tend at all to make a girl adapt herself rationally\nto the varieties of her situation in life.--They only give a little\npolish.""]","[[62283, 63411]]","Not I, indeed. I only name possibilities. I do not pretend to Emma's
+genius for foretelling and guessing. I hope, with all my heart, the
+young man may be a Weston in merit, and a Churchill in fortune.--But
+Harriet Smith--I have not half done about Harriet Smith. I think her the
+very worst sort of companion that Emma could possibly have. She knows
+nothing herself, and looks upon Emma as knowing every thing. She is a
+flatterer in all her ways; and so much the worse, because undesigned.
+Her ignorance is hourly flattery. How can Emma imagine she has any
+thing to learn herself, while Harriet is presenting such a delightful
+inferiority? And as for Harriet, I will venture to say that _she_ cannot
+gain by the acquaintance. Hartfield will only put her out of conceit
+with all the other places she belongs to. She will grow just refined
+enough to be uncomfortable with those among whom birth and circumstances
+have placed her home. I am much mistaken if Emma's doctrines give any
+strength of mind, or tend at all to make a girl adapt herself rationally
+to the varieties of her situation in life.--They only give a little
+polish.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['Emma', 'the\nyoung man', 'Harriet Smith', 'Harriet Smith', 'her', 'Emma', 'She', 'Emma', 'She', 'her', 'Her', 'Emma', 'she', 'Harriet', 'Harriet', 'she', 'her', 'she', 'She', 'her', 'Emma', 'her']]","[[[62345, 62349], [62416, 62429], [62489, 62502], [62531, 62544], [62554, 62557], [62596, 62600], [62622, 62625], [62664, 62668], [62693, 62696], [62719, 62722], [62772, 62775], [62814, 62818], [62827, 62830], [62869, 62876], [62933, 62940], [62970, 62973], [63032, 63035], [63077, 63080], [63093, 63096], [63205, 63208], [63237, 63241], [63356, 63359]]]","[[['Emma'], ['Frank Churchill'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Harriet Smith'], ['Emma'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Emma'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Emma']]]"
+Q87,"[""I either depend more upon Emma's good sense than you do, or am more\nanxious for her present comfort; for I cannot lament the acquaintance.\nHow well she looked last night!""]","[[63415, 63585]]","I either depend more upon Emma's good sense than you do, or am more
+anxious for her present comfort; for I cannot lament the acquaintance.
+How well she looked last night!",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['Emma', 'you', 'her', 'she']]","[[[63441, 63445], [63464, 63467], [63495, 63498], [63563, 63566]]]","[[['Emma'], ['Mr. Knightley'], ['Emma'], ['Emma']]]"
+Q88,"[""Oh! you would rather talk of her person than her mind, would you? Very\nwell; I shall not attempt to deny Emma's being pretty.""]","[[63589, 63714]]","Oh! you would rather talk of her person than her mind, would you? Very
+well; I shall not attempt to deny Emma's being pretty.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['you', 'her', 'her', 'you', 'Emma']]","[[[63593, 63596], [63618, 63621], [63634, 63637], [63650, 63653], [63694, 63698]]]","[[['Mrs. Weston'], ['Emma'], ['Emma'], ['Mrs. Weston'], ['Emma']]]"
+Q89,['Pretty! say beautiful rather. Can you imagine any thing nearer perfect\nbeauty than Emma altogether--face and figure?'],"[[63718, 63834]]","Pretty! say beautiful rather. Can you imagine any thing nearer perfect
+beauty than Emma altogether--face and figure?",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['you', 'Emma']]","[[[63752, 63755], [63801, 63805]]]","[[['Mr. Knightley'], ['Emma']]]"
+Q90,"['I do not know what I could imagine, but I confess that I have seldom\nseen a face or figure more pleasing to me than hers. But I am a partial\nold friend.']","[[63838, 63990]]","I do not know what I could imagine, but I confess that I have seldom
+seen a face or figure more pleasing to me than hers. But I am a partial
+old friend.",Mr. Knightley,['Mrs. Weston'],Implicit,,[['hers']],"[[[63954, 63958]]]",[[['Emma']]]
+Q91,"[""Such an eye!--the true hazle eye--and so brilliant! regular features,\nopen countenance, with a complexion! oh! what a bloom of full health,\nand such a pretty height and size; such a firm and upright figure!\nThere is health, not merely in her bloom, but in her air, her head, her\nglance. One hears sometimes of a child being 'the picture of health;'\nnow, Emma always gives me the idea of being the complete picture of\ngrown-up health. She is loveliness itself. Mr. Knightley, is not she?""]","[[63994, 64480]]","Such an eye!--the true hazle eye--and so brilliant! regular features,
+open countenance, with a complexion! oh! what a bloom of full health,
+and such a pretty height and size; such a firm and upright figure!
+There is health, not merely in her bloom, but in her air, her head, her
+glance. One hears sometimes of a child being 'the picture of health;'
+now, Emma always gives me the idea of being the complete picture of
+grown-up health. She is loveliness itself. Mr. Knightley, is not she?",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['her', 'her', 'her', 'her', 'Emma', 'She', 'Mr. Knightley', 'she']]","[[[64232, 64235], [64250, 64253], [64259, 64262], [64269, 64272], [64348, 64352], [64428, 64431], [64454, 64467], [64476, 64479]]]","[[['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Mr. Knightley'], ['Emma']]]"
+Q92,"['I have not a fault to find with her person,', 'I think her\nall you describe. I love to look at her; and I will add this praise,\nthat I do not think her personally vain. Considering how very handsome\nshe is, she appears to be little occupied with it; her vanity lies\nanother way. Mrs. Weston, I am not to be talked out of my dislike of\nHarriet Smith, or my dread of its doing them both harm.']","[[64484, 64527], [64542, 64885]]","I have not a fault to find with her person, I think her
+all you describe. I love to look at her; and I will add this praise,
+that I do not think her personally vain. Considering how very handsome
+she is, she appears to be little occupied with it; her vanity lies
+another way. Mrs. Weston, I am not to be talked out of my dislike of
+Harriet Smith, or my dread of its doing them both harm.",Mr. Knightley,['Mrs. Weston'],Anaphoric,he replied,"[['her'], ['her', 'you', 'her', 'her', 'she', 'she', 'her', 'Mrs. Weston', 'Harriet Smith', 'them']]","[[[64516, 64519]], [[64550, 64553], [64558, 64561], [64590, 64593], [64643, 64646], [64694, 64697], [64702, 64705], [64745, 64748], [64774, 64785], [64830, 64843], [64870, 64874]]]","[[['Emma']], [['Emma'], ['Mrs. Weston'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Mrs. Weston'], ['Harriet Smith'], ['Emma', 'Harriet Smith']]]"
+Q93,"[""And I, Mr. Knightley, am equally stout in my confidence of its not\ndoing them any harm. With all dear Emma's little faults, she is an\nexcellent creature. Where shall we see a better daughter, or a kinder\nsister, or a truer friend? No, no; she has qualities which may be\ntrusted; she will never lead any one really wrong; she will make no\nlasting blunder; where Emma errs once, she is in the right a hundred\ntimes.""]","[[64889, 65302]]","And I, Mr. Knightley, am equally stout in my confidence of its not
+doing them any harm. With all dear Emma's little faults, she is an
+excellent creature. Where shall we see a better daughter, or a kinder
+sister, or a truer friend? No, no; she has qualities which may be
+trusted; she will never lead any one really wrong; she will make no
+lasting blunder; where Emma errs once, she is in the right a hundred
+times.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['Mr. Knightley', 'them', 'dear Emma', 'she', 'we', 'she', 'she', 'she', 'Emma', 'she']]","[[[64896, 64909], [64962, 64966], [64986, 64995], [65013, 65016], [65055, 65057], [65128, 65131], [65168, 65171], [65210, 65213], [65250, 65254], [65266, 65269]]]","[[['Mr. Knightley'], ['Emma', 'Harriet Smith'], ['Emma'], ['Emma'], ['Mrs. Weston', 'Mr. Knightley'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma']]]"
+Q94,"['Very well; I will not plague you any more. Emma shall be an angel, and\nI will keep my spleen to myself till Christmas brings John and Isabella.\nJohn loves Emma with a reasonable and therefore not a blind affection,\nand Isabella always thinks as he does; except when he is not quite\nfrightened enough about the children. I am sure of having their opinions\nwith me.']","[[65306, 65669]]","Very well; I will not plague you any more. Emma shall be an angel, and
+I will keep my spleen to myself till Christmas brings John and Isabella.
+John loves Emma with a reasonable and therefore not a blind affection,
+and Isabella always thinks as he does; except when he is not quite
+frightened enough about the children. I am sure of having their opinions
+with me.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['you', 'Emma', 'John', 'Isabella', 'John', 'Emma', 'Isabella', 'he', 'he', 'their']]","[[[65335, 65338], [65349, 65353], [65431, 65435], [65440, 65448], [65450, 65454], [65461, 65465], [65525, 65533], [65551, 65553], [65572, 65574], [65646, 65651]]]","[[['Mrs. Weston'], ['Emma'], ['Mr. John Knightley'], ['Isabella'], ['Mr. John Knightley'], ['Emma'], ['Isabella'], ['Mr. John Knightley'], ['Mr. John Knightley'], ['Isabella', 'Mr. John Knightley']]]"
+Q95,"[""I know that you all love her really too well to be unjust or unkind;\nbut excuse me, Mr. Knightley, if I take the liberty (I consider myself,\nyou know, as having somewhat of the privilege of speech that Emma's\nmother might have had) the liberty of hinting that I do not think any\npossible good can arise from Harriet Smith's intimacy being made a\nmatter of much discussion among you. Pray excuse me; but supposing any\nlittle inconvenience may be apprehended from the intimacy, it cannot be\nexpected that Emma, accountable to nobody but her father, who perfectly\napproves the acquaintance, should put an end to it, so long as it is a\nsource of pleasure to herself. It has been so many years my province to\ngive advice, that you cannot be surprized, Mr. Knightley, at this little\nremains of office.""]","[[65673, 66468]]","I know that you all love her really too well to be unjust or unkind;
+but excuse me, Mr. Knightley, if I take the liberty (I consider myself,
+you know, as having somewhat of the privilege of speech that Emma's
+mother might have had) the liberty of hinting that I do not think any
+possible good can arise from Harriet Smith's intimacy being made a
+matter of much discussion among you. Pray excuse me; but supposing any
+little inconvenience may be apprehended from the intimacy, it cannot be
+expected that Emma, accountable to nobody but her father, who perfectly
+approves the acquaintance, should put an end to it, so long as it is a
+source of pleasure to herself. It has been so many years my province to
+give advice, that you cannot be surprized, Mr. Knightley, at this little
+remains of office.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['you all', 'her', 'Mr. Knightley', 'you', 'Emma', 'Harriet Smith', 'you', 'Emma', 'her father', 'you', 'Mr. Knightley']]","[[[65685, 65692], [65698, 65701], [65757, 65770], [65814, 65817], [65875, 65879], [65981, 65994], [66051, 66054], [66176, 66180], [66208, 66218], [66395, 66398], [66420, 66433]]]","[[['Isabella', 'Mr. Knightley', 'Mr. John Knightley'], ['Emma'], ['Mr. Knightley'], ['Mr. Knightley'], ['Emma'], ['Harriet Smith'], ['Mr. Knightley'], ['Emma'], ['Mr. Woodhouse'], ['Mr. Knightley'], ['Mr. Knightley']]]"
+Q96,"['Not at all,', 'I am much obliged to you for it. It is very\ngood advice, and it shall have a better fate than your advice has often\nfound; for it shall be attended to.']","[[66472, 66483], [66496, 66647]]","Not at all, I am much obliged to you for it. It is very
+good advice, and it shall have a better fate than your advice has often
+found; for it shall be attended to.",Mr. Knightley,['Mrs. Weston'],Anaphoric,cried he,"[[], ['you', 'your']]","[[], [[66517, 66520], [66590, 66594]]]","[[], [['Mrs. Weston'], ['Mrs. Weston']]]"
+Q97,"['Mrs. John Knightley is easily alarmed, and might be made unhappy about\nher sister.']","[[66651, 66733]]","Mrs. John Knightley is easily alarmed, and might be made unhappy about
+her sister.",Mrs. Weston,['Mr. Knightley'],Implicit,,"[['Mrs. John Knightley', 'her sister']]","[[[66651, 66670], [66722, 66732]]]","[[['Isabella'], ['Emma']]]"
+Q98,"['Be satisfied,', 'I will not raise any outcry. I will keep my\nill-humour to myself. I have a very sincere interest in Emma. Isabella\ndoes not seem more my sister; has never excited a greater interest;\nperhaps hardly so great. There is an anxiety, a curiosity in what one\nfeels for Emma. I wonder what will become of her!']","[[66737, 66750], [66762, 67064]]","Be satisfied, I will not raise any outcry. I will keep my
+ill-humour to myself. I have a very sincere interest in Emma. Isabella
+does not seem more my sister; has never excited a greater interest;
+perhaps hardly so great. There is an anxiety, a curiosity in what one
+feels for Emma. I wonder what will become of her!",Mr. Knightley,['Mrs. Weston'],Anaphoric,said he,"[[], ['Emma', 'Isabella', 'Emma', 'her']]","[[], [[66862, 66866], [66868, 66876], [67025, 67029], [67060, 67063]]]","[[], [['Emma'], ['Isabella'], ['Emma'], ['Emma']]]"
+Q99,"['So do I,', 'very much.']","[[67068, 67076], [67104, 67114]]","So do I, very much.",Mrs. Weston,['Mr. Knightley'],Explicit,said Mrs Weston,"[[], []]","[[], []]","[[], []]"
+Q100,"['She always declares she will never marry, which, of course, means just\nnothing at all. But I have no idea that she has yet ever seen a man she\ncared for. It would not be a bad thing for her to be very much in love\nwith a proper object. I should like to see Emma in love, and in some\ndoubt of a return; it would do her good. But there is nobody hereabouts\nto attach her; and she goes so seldom from home.']","[[67118, 67521]]","She always declares she will never marry, which, of course, means just
+nothing at all. But I have no idea that she has yet ever seen a man she
+cared for. It would not be a bad thing for her to be very much in love
+with a proper object. I should like to see Emma in love, and in some
+doubt of a return; it would do her good. But there is nobody hereabouts
+to attach her; and she goes so seldom from home.",Mr. Knightley,['Mrs. Weston'],Implicit,,"[['She', 'she', 'she', 'she', 'her', 'Emma', 'her', 'her', 'she']]","[[[67118, 67121], [67138, 67141], [67229, 67232], [67257, 67260], [67304, 67307], [67375, 67379], [67432, 67435], [67483, 67486], [67492, 67495]]]","[[['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma'], ['Emma']]]"
+Q101,"['There does, indeed, seem as little to tempt her to break her resolution\nat present,', ""as can well be; and while she is so\nhappy at Hartfield, I cannot wish her to be forming any attachment which\nwould be creating such difficulties on poor Mr. Woodhouse's account. I\ndo not recommend matrimony at present to Emma, though I mean no slight\nto the state, I assure you.""]","[[67525, 67608], [67629, 67907]]","There does, indeed, seem as little to tempt her to break her resolution
+at present, as can well be; and while she is so
+happy at Hartfield, I cannot wish her to be forming any attachment which
+would be creating such difficulties on poor Mr. Woodhouse's account. I
+do not recommend matrimony at present to Emma, though I mean no slight
+to the state, I assure you.",Mrs. Weston,['Mr. Knightley'],Explicit,said Mrs Weston,"[['her', 'her'], ['she', 'her', 'poor Mr. Woodhouse', 'Emma', 'you']]","[[[67569, 67572], [67582, 67585]], [[67655, 67658], [67699, 67702], [67777, 67795], [67850, 67854], [67903, 67906]]]","[[['Emma'], ['Emma']], [['Emma'], ['Emma'], ['Mr. Woodhouse'], ['Emma'], ['Mr. Knightley']]]"
+Q102,['What does Weston think of the weather; shall we have\nrain?'],"[[68210, 68268]]","What does Weston think of the weather; shall we have
+rain?",Mr. Knightley,['Mrs. Weston'],Explicit,the quiet transition which Mr Knightley soon afterwards made to,[['Weston']],"[[[68220, 68226]]]",[[['Mr. Weston']]]

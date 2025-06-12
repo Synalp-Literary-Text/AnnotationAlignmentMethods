@@ -1,0 +1,168 @@
+qId,qTextArr,qSpan,qText,speaker,addressee,qType,refExp,menTexts,menSpans,menEnts
+Q38,"[""_two_ parlours, two very good\nparlours, indeed; one of them quite as large as Mrs. Goddard's\ndrawing-room; and of her having an upper maid who had lived\nfive-and-twenty years with her; and of their having eight cows, two of\nthem Alderneys, and one a little Welch cow, a very pretty little Welch\ncow indeed; and of Mrs. Martin's saying as she was so fond of it,\nit should be called _her_ cow; and of their having a very handsome\nsummer-house in their garden, where some day next year they were all to\ndrink tea:--a very handsome summer-house, large enough to hold a dozen\npeople.""]","[[41502, 42080]]","_two_ parlours, two very good
+parlours, indeed; one of them quite as large as Mrs. Goddard's
+drawing-room; and of her having an upper maid who had lived
+five-and-twenty years with her; and of their having eight cows, two of
+them Alderneys, and one a little Welch cow, a very pretty little Welch
+cow indeed; and of Mrs. Martin's saying as she was so fond of it,
+it should be called _her_ cow; and of their having a very handsome
+summer-house in their garden, where some day next year they were all to
+drink tea:--a very handsome summer-house, large enough to hold a dozen
+people.",Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q39,"['Well done, Mrs. Martin!', 'You know what you are about.']","[[43987, 44010], [44027, 44055]]","Well done, Mrs. Martin! You know what you are about.",Emma,[],Explicit,thought Emma,"[[], []]","[[], []]","[[], []]"
+Q40,"['And when she had come away, Mrs. Martin was so very kind as to send\nMrs. Goddard a beautiful goose--the finest goose Mrs. Goddard had ever\nseen. Mrs. Goddard had dressed it on a Sunday, and asked all the three\nteachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with\nher.']","[[44059, 44344]]","And when she had come away, Mrs. Martin was so very kind as to send
+Mrs. Goddard a beautiful goose--the finest goose Mrs. Goddard had ever
+seen. Mrs. Goddard had dressed it on a Sunday, and asked all the three
+teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with
+her.",Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q41,"['Mr. Martin, I suppose, is not a man of information beyond the line of\nhis own business? He does not read?']","[[44348, 44453]]","Mr. Martin, I suppose, is not a man of information beyond the line of
+his own business? He does not read?",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q42,"['Oh yes!--that is, no--I do not know--but I believe he has read a\ngood deal--but not what you would think any thing of. He reads the\nAgricultural Reports, and some other books that lay in one of the window\nseats--but he reads all _them_ to himself. But sometimes of an evening,\nbefore we went to cards, he would read something aloud out of the\nElegant Extracts, very entertaining. And I know he has read the Vicar of\nWakefield. He never read the Romance of the Forest, nor The Children of\nthe Abbey. He had never heard of such books before I mentioned them, but\nhe is determined to get them now as soon as ever he can.']","[[44457, 45074]]","Oh yes!--that is, no--I do not know--but I believe he has read a
+good deal--but not what you would think any thing of. He reads the
+Agricultural Reports, and some other books that lay in one of the window
+seats--but he reads all _them_ to himself. But sometimes of an evening,
+before we went to cards, he would read something aloud out of the
+Elegant Extracts, very entertaining. And I know he has read the Vicar of
+Wakefield. He never read the Romance of the Forest, nor The Children of
+the Abbey. He had never heard of such books before I mentioned them, but
+he is determined to get them now as soon as ever he can.",Harriet Smith,['Emma'],Implicit,,[['you']],"[[[44546, 44549]]]",[[['Emma']]]
+Q43,['What sort of looking man is Mr. Martin?'],"[[45103, 45142]]",What sort of looking man is Mr. Martin?,Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q44,"['Oh! not handsome--not at all handsome. I thought him very plain at\nfirst, but I do not think him so plain now. One does not, you know,\nafter a time. But did you never see him? He is in Highbury every now and\nthen, and he is sure to ride through every week in his way to Kingston.\nHe has passed you very often.']","[[45146, 45455]]","Oh! not handsome--not at all handsome. I thought him very plain at
+first, but I do not think him so plain now. One does not, you know,
+after a time. But did you never see him? He is in Highbury every now and
+then, and he is sure to ride through every week in his way to Kingston.
+He has passed you very often.",Harriet Smith,['Emma'],Implicit,,"[['you', 'you', 'you']]","[[[45271, 45274], [45303, 45306], [45440, 45443]]]","[[['Emma'], ['Emma'], ['Emma']]]"
+Q45,"['That may be, and I may have seen him fifty times, but without having\nany idea of his name. A young farmer, whether on horseback or on foot,\nis the very last sort of person to raise my curiosity. The yeomanry are\nprecisely the order of people with whom I feel I can have nothing to do.\nA degree or two lower, and a creditable appearance might interest me;\nI might hope to be useful to their families in some way or other. But\na farmer can need none of my help, and is, therefore, in one sense, as\nmuch above my notice as in every other he is below it.']","[[45459, 46009]]","That may be, and I may have seen him fifty times, but without having
+any idea of his name. A young farmer, whether on horseback or on foot,
+is the very last sort of person to raise my curiosity. The yeomanry are
+precisely the order of people with whom I feel I can have nothing to do.
+A degree or two lower, and a creditable appearance might interest me;
+I might hope to be useful to their families in some way or other. But
+a farmer can need none of my help, and is, therefore, in one sense, as
+much above my notice as in every other he is below it.",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q46,['To be sure. Oh yes! It is not likely you should ever have observed him;\nbut he knows you very well indeed--I mean by sight.'],"[[46013, 46136]]","To be sure. Oh yes! It is not likely you should ever have observed him;
+but he knows you very well indeed--I mean by sight.",Harriet Smith,['Emma'],Implicit,,"[['you', 'you']]","[[[46050, 46053], [46098, 46101]]]","[[['Emma'], ['Emma']]]"
+Q47,"['I have no doubt of his being a very respectable young man. I know,\nindeed, that he is so, and, as such, wish him well. What do you imagine\nhis age to be?']","[[46140, 46293]]","I have no doubt of his being a very respectable young man. I know,
+indeed, that he is so, and, as such, wish him well. What do you imagine
+his age to be?",Emma,['Harriet Smith'],Implicit,,[['you']],"[[[46267, 46270]]]",[[['Harriet Smith']]]
+Q48,"[""He was four-and-twenty the 8th of last June, and my birthday is the\n23rd just a fortnight and a day's difference--which is very odd.""]","[[46297, 46429]]","He was four-and-twenty the 8th of last June, and my birthday is the
+23rd just a fortnight and a day's difference--which is very odd.",Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q49,"['Only four-and-twenty. That is too young to settle. His mother is\nperfectly right not to be in a hurry. They seem very comfortable as they\nare, and if she were to take any pains to marry him, she would probably\nrepent it. Six years hence, if he could meet with a good sort of young\nwoman in the same rank as his own, with a little money, it might be very\ndesirable.']","[[46433, 46797]]","Only four-and-twenty. That is too young to settle. His mother is
+perfectly right not to be in a hurry. They seem very comfortable as they
+are, and if she were to take any pains to marry him, she would probably
+repent it. Six years hence, if he could meet with a good sort of young
+woman in the same rank as his own, with a little money, it might be very
+desirable.",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q50,"['Six years hence! Dear Miss Woodhouse, he would be thirty years old!']","[[46801, 46868]]","Six years hence! Dear Miss Woodhouse, he would be thirty years old!",Harriet Smith,['Emma'],Implicit,,[['Dear Miss Woodhouse']],"[[[46818, 46837]]]",[[['Emma']]]
+Q51,"['Well, and that is as early as most men can afford to marry, who are not\nborn to an independence. Mr. Martin, I imagine, has his fortune entirely\nto make--cannot be at all beforehand with the world. Whatever money he\nmight come into when his father died, whatever his share of the family\nproperty, it is, I dare say, all afloat, all employed in his stock, and\nso forth; and though, with diligence and good luck, he may be rich in\ntime, it is next to impossible that he should have realised any thing\nyet.']","[[46872, 47375]]","Well, and that is as early as most men can afford to marry, who are not
+born to an independence. Mr. Martin, I imagine, has his fortune entirely
+to make--cannot be at all beforehand with the world. Whatever money he
+might come into when his father died, whatever his share of the family
+property, it is, I dare say, all afloat, all employed in his stock, and
+so forth; and though, with diligence and good luck, he may be rich in
+time, it is next to impossible that he should have realised any thing
+yet.",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q52,"['To be sure, so it is. But they live very comfortably. They have no\nindoors man, else they do not want for any thing; and Mrs. Martin talks\nof taking a boy another year.']","[[47379, 47547]]","To be sure, so it is. But they live very comfortably. They have no
+indoors man, else they do not want for any thing; and Mrs. Martin talks
+of taking a boy another year.",Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q53,"[""I wish you may not get into a scrape, Harriet, whenever he does\nmarry;--I mean, as to being acquainted with his wife--for though his\nsisters, from a superior education, are not to be altogether objected\nto, it does not follow that he might marry any body at all fit for you\nto notice. The misfortune of your birth ought to make you particularly\ncareful as to your associates. There can be no doubt of your being a\ngentleman's daughter, and you must support your claim to that station by\nevery thing within your own power, or there will be plenty of people who\nwould take pleasure in degrading you.""]","[[47551, 48148]]","I wish you may not get into a scrape, Harriet, whenever he does
+marry;--I mean, as to being acquainted with his wife--for though his
+sisters, from a superior education, are not to be altogether objected
+to, it does not follow that he might marry any body at all fit for you
+to notice. The misfortune of your birth ought to make you particularly
+careful as to your associates. There can be no doubt of your being a
+gentleman's daughter, and you must support your claim to that station by
+every thing within your own power, or there will be plenty of people who
+would take pleasure in degrading you.",Emma,['Harriet Smith'],Implicit,,"[['you', 'Harriet', 'you', 'your', 'you', 'your', 'your', 'you', 'your', 'your', 'you']]","[[[47558, 47561], [47589, 47596], [47821, 47824], [47854, 47858], [47879, 47882], [47910, 47914], [47952, 47956], [47991, 47994], [48008, 48012], [48057, 48061], [48144, 48147]]]","[[['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet'], ['Harriet Smith'], ['Harriet Smith']]]"
+Q54,"['Yes, to be sure, I suppose there are. But while I visit at Hartfield,\nand you are so kind to me, Miss Woodhouse, I am not afraid of what any\nbody can do.']","[[48152, 48305]]","Yes, to be sure, I suppose there are. But while I visit at Hartfield,
+and you are so kind to me, Miss Woodhouse, I am not afraid of what any
+body can do.",Harriet Smith,['Emma'],Implicit,,"[['you', 'Miss Woodhouse']]","[[[48226, 48229], [48249, 48263]]]","[[['Emma'], ['Emma']]]"
+Q55,"[""You understand the force of influence pretty well, Harriet; but I would\nhave you so firmly established in good society, as to be independent\neven of Hartfield and Miss Woodhouse. I want to see you permanently\nwell connected, and to that end it will be advisable to have as few odd\nacquaintance as may be; and, therefore, I say that if you should still\nbe in this country when Mr. Martin marries, I wish you may not be drawn\nin by your intimacy with the sisters, to be acquainted with the wife,\nwho will probably be some mere farmer's daughter, without education.""]","[[48309, 48871]]","You understand the force of influence pretty well, Harriet; but I would
+have you so firmly established in good society, as to be independent
+even of Hartfield and Miss Woodhouse. I want to see you permanently
+well connected, and to that end it will be advisable to have as few odd
+acquaintance as may be; and, therefore, I say that if you should still
+be in this country when Mr. Martin marries, I wish you may not be drawn
+in by your intimacy with the sisters, to be acquainted with the wife,
+who will probably be some mere farmer's daughter, without education.",Emma,['Harriet Smith'],Implicit,,"[['You', 'Harriet', 'you', 'Miss Woodhouse', 'you', 'you', 'you', 'your']]","[[[48309, 48312], [48360, 48367], [48386, 48389], [48472, 48486], [48502, 48505], [48644, 48647], [48712, 48715], [48739, 48743]]]","[[['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Emma'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet']]]"
+Q56,"['To be sure. Yes. Not that I think Mr. Martin would ever marry any body\nbut what had had some education--and been very well brought up. However,\nI do not mean to set up my opinion against yours--and I am sure I shall\nnot wish for the acquaintance of his wife. I shall always have a great\nregard for the Miss Martins, especially Elizabeth, and should be very\nsorry to give them up, for they are quite as well educated as me. But\nif he marries a very ignorant, vulgar woman, certainly I had better not\nvisit her, if I can help it.']","[[48875, 49402]]","To be sure. Yes. Not that I think Mr. Martin would ever marry any body
+but what had had some education--and been very well brought up. However,
+I do not mean to set up my opinion against yours--and I am sure I shall
+not wish for the acquaintance of his wife. I shall always have a great
+regard for the Miss Martins, especially Elizabeth, and should be very
+sorry to give them up, for they are quite as well educated as me. But
+if he marries a very ignorant, vulgar woman, certainly I had better not
+visit her, if I can help it.",Harriet Smith,['Emma'],Implicit,,[['yours']],"[[[49062, 49067]]]",[[['Emma']]]
+Q57,"['Only think of our happening to meet him!--How very odd! It was quite\na chance, he said, that he had not gone round by Randalls. He did not\nthink we ever walked this road. He thought we walked towards Randalls\nmost days. He has not been able to get the Romance of the Forest yet.\nHe was so busy the last time he was at Kingston that he quite forgot it,\nbut he goes again to-morrow. So very odd we should happen to meet! Well,\nMiss Woodhouse, is he like what you expected? What do you think of him?\nDo you think him so very plain?']","[[50735, 51263]]","Only think of our happening to meet him!--How very odd! It was quite
+a chance, he said, that he had not gone round by Randalls. He did not
+think we ever walked this road. He thought we walked towards Randalls
+most days. He has not been able to get the Romance of the Forest yet.
+He was so busy the last time he was at Kingston that he quite forgot it,
+but he goes again to-morrow. So very odd we should happen to meet! Well,
+Miss Woodhouse, is he like what you expected? What do you think of him?
+Do you think him so very plain?",Harriet Smith,['Emma'],Implicit,,"[['our', 'we', 'we', 'we', 'Miss Woodhouse', 'you', 'you', 'you']]","[[[50749, 50752], [50880, 50882], [50917, 50919], [51128, 51130], [51160, 51174], [51192, 51195], [51214, 51217], [51235, 51238]]]","[[['Emma', 'Harriet Smith'], ['Emma', 'Harriet Smith'], ['Emma', 'Harriet Smith'], ['Emma', 'Harriet Smith'], ['Emma'], ['Emma'], ['Emma'], ['Emma']]]"
+Q58,"['He is very plain, undoubtedly--remarkably plain:--but that is nothing\ncompared with his entire want of gentility. I had no right to expect\nmuch, and I did not expect much; but I had no idea that he could be so\nvery clownish, so totally without air. I had imagined him, I confess, a\ndegree or two nearer gentility.']","[[51267, 51580]]","He is very plain, undoubtedly--remarkably plain:--but that is nothing
+compared with his entire want of gentility. I had no right to expect
+much, and I did not expect much; but I had no idea that he could be so
+very clownish, so totally without air. I had imagined him, I confess, a
+degree or two nearer gentility.",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q59,"['To be sure,', 'he is not so genteel\nas real gentlemen.']","[[51584, 51595], [51634, 51673]]","To be sure, he is not so genteel
+as real gentlemen.",Harriet Smith,['Emma'],Explicit,said Harriet,"[[], []]","[[], []]","[[], []]"
+Q60,"['I think, Harriet, since your acquaintance with us, you have been\nrepeatedly in the company of some such very real gentlemen, that you\nmust yourself be struck with the difference in Mr. Martin. At Hartfield,\nyou have had very good specimens of well educated, well bred men. I\nshould be surprized if, after seeing them, you could be in company\nwith Mr. Martin again without perceiving him to be a very inferior\ncreature--and rather wondering at yourself for having ever thought him\nat all agreeable before. Do not you begin to feel that now? Were not\nyou struck? I am sure you must have been struck by his awkward look and\nabrupt manner, and the uncouthness of a voice which I heard to be wholly\nunmodulated as I stood here.']","[[51677, 52399]]","I think, Harriet, since your acquaintance with us, you have been
+repeatedly in the company of some such very real gentlemen, that you
+must yourself be struck with the difference in Mr. Martin. At Hartfield,
+you have had very good specimens of well educated, well bred men. I
+should be surprized if, after seeing them, you could be in company
+with Mr. Martin again without perceiving him to be a very inferior
+creature--and rather wondering at yourself for having ever thought him
+at all agreeable before. Do not you begin to feel that now? Were not
+you struck? I am sure you must have been struck by his awkward look and
+abrupt manner, and the uncouthness of a voice which I heard to be wholly
+unmodulated as I stood here.",Emma,['Harriet Smith'],Implicit,,"[['Harriet', 'us', 'you', 'you', 'you', 'you', 'you', 'you', 'you']]","[[[51686, 51693], [51724, 51726], [51728, 51731], [51807, 51810], [51884, 51887], [51995, 51998], [52189, 52192], [52226, 52229], [52248, 52251]]]","[[['Harriet Smith'], ['Emma', 'Mr. Woodhouse'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith'], ['Harriet Smith']]]"
+Q61,"['Certainly, he is not like Mr. Knightley. He has not such a fine air and\nway of walking as Mr. Knightley. I see the difference plain enough. But\nMr. Knightley is so very fine a man!']","[[52403, 52583]]","Certainly, he is not like Mr. Knightley. He has not such a fine air and
+way of walking as Mr. Knightley. I see the difference plain enough. But
+Mr. Knightley is so very fine a man!",Harriet Smith,['Emma'],Implicit,,"[['Mr. Knightley', 'Mr. Knightley', 'Mr. Knightley']]","[[[52429, 52442], [52493, 52506], [52547, 52560]]]","[[['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley']]]"
+Q62,"[""Mr. Knightley's air is so remarkably good that it is not fair to\ncompare Mr. Martin with _him_. You might not see one in a hundred with\n_gentleman_ so plainly written as in Mr. Knightley. But he is not the\nonly gentleman you have been lately used to. What say you to Mr. Weston\nand Mr. Elton? Compare Mr. Martin with either of _them_. Compare their\nmanner of carrying themselves; of walking; of speaking; of being silent.\nYou must see the difference.""]","[[52587, 53037]]","Mr. Knightley's air is so remarkably good that it is not fair to
+compare Mr. Martin with _him_. You might not see one in a hundred with
+_gentleman_ so plainly written as in Mr. Knightley. But he is not the
+only gentleman you have been lately used to. What say you to Mr. Weston
+and Mr. Elton? Compare Mr. Martin with either of _them_. Compare their
+manner of carrying themselves; of walking; of speaking; of being silent.
+You must see the difference.",Emma,['Harriet Smith'],Implicit,,"[['Mr. Knightley', 'him', 'You', 'Mr. Knightley', 'he', 'you', 'you', 'Mr. Weston', 'Mr. Elton', 'them', 'their', 'You']]","[[[52587, 52600], [52677, 52680], [52683, 52686], [52760, 52773], [52779, 52781], [52808, 52811], [52847, 52850], [52854, 52864], [52869, 52878], [52915, 52919], [52930, 52935], [53009, 53012]]]","[[['Mr. Knightley'], ['Mr. Knightley'], ['Harriet Smith'], ['Mr. Knightley'], ['Mr. Knightley'], ['Harriet Smith'], ['Harriet Smith'], ['Mr. Weston'], ['Mr. Elton'], ['Mr. Elton', 'Mr. Weston'], ['Mr. Elton', 'Mr. Weston'], ['Harriet Smith']]]"
+Q63,['Oh yes!--there is a great difference. But Mr. Weston is almost an old\nman. Mr. Weston must be between forty and fifty.'],"[[53041, 53159]]","Oh yes!--there is a great difference. But Mr. Weston is almost an old
+man. Mr. Weston must be between forty and fifty.",Harriet Smith,['Emma'],Implicit,,"[['Mr. Weston', 'Mr. Weston']]","[[[53083, 53093], [53116, 53126]]]","[[['Mr. Weston'], ['Mr. Weston']]]"
+Q64,"[""Which makes his good manners the more valuable. The older a person\ngrows, Harriet, the more important it is that their manners should not\nbe bad; the more glaring and disgusting any loudness, or coarseness, or\nawkwardness becomes. What is passable in youth is detestable in later\nage. Mr. Martin is now awkward and abrupt; what will he be at Mr.\nWeston's time of life?""]","[[53163, 53531]]","Which makes his good manners the more valuable. The older a person
+grows, Harriet, the more important it is that their manners should not
+be bad; the more glaring and disgusting any loudness, or coarseness, or
+awkwardness becomes. What is passable in youth is detestable in later
+age. Mr. Martin is now awkward and abrupt; what will he be at Mr.
+Weston's time of life?",Emma,['Harriet Smith'],Implicit,,"[['his', 'Harriet', 'Mr.\nWeston']]","[[[53175, 53178], [53237, 53244], [53505, 53515]]]","[[['Mr. Weston'], ['Harriet Smith'], ['Mr. Weston']]]"
+Q65,"['There is no saying, indeed,']","[[53535, 53562]]","There is no saying, indeed,",Harriet Smith,['Emma'],Explicit,replied Harriet,[[]],[[]],[[]]
+Q66,"['But there may be pretty good guessing. He will be a completely gross,\nvulgar farmer, totally inattentive to appearances, and thinking of\nnothing but profit and loss.']","[[53599, 53764]]","But there may be pretty good guessing. He will be a completely gross,
+vulgar farmer, totally inattentive to appearances, and thinking of
+nothing but profit and loss.",Emma,['Harriet Smith'],Implicit,,[[]],[[]],[[]]
+Q67,"['Will he, indeed? That will be very bad.']","[[53768, 53807]]","Will he, indeed? That will be very bad.",Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q68,"['How much his business engrosses him already is very plain from the\ncircumstance of his forgetting to inquire for the book you recommended.\nHe was a great deal too full of the market to think of any thing\nelse--which is just as it should be, for a thriving man. What has he to\ndo with books? And I have no doubt that he _will_ thrive, and be a very\nrich man in time--and his being illiterate and coarse need not disturb\n_us_.']","[[53811, 54235]]","How much his business engrosses him already is very plain from the
+circumstance of his forgetting to inquire for the book you recommended.
+He was a great deal too full of the market to think of any thing
+else--which is just as it should be, for a thriving man. What has he to
+do with books? And I have no doubt that he _will_ thrive, and be a very
+rich man in time--and his being illiterate and coarse need not disturb
+_us_.",Emma,['Harriet Smith'],Implicit,,"[['you', 'us']]","[[[53933, 53936], [54231, 54233]]]","[[['Harriet Smith'], ['Emma', 'Harriet Smith']]]"
+Q69,['I wonder he did not remember the book'],"[[54239, 54276]]",I wonder he did not remember the book,Harriet Smith,['Emma'],Implicit,,[[]],[[]],[[]]
+Q70,"[""In one respect, perhaps, Mr. Elton's manners are superior to Mr.\nKnightley's or Mr. Weston's. They have more gentleness. They might be\nmore safely held up as a pattern. There is an openness, a quickness,\nalmost a bluntness in Mr. Weston, which every body likes in _him_,\nbecause there is so much good-humour with it--but that would not do to\nbe copied. Neither would Mr. Knightley's downright, decided, commanding\nsort of manner, though it suits _him_ very well; his figure, and look,\nand situation in life seem to allow it; but if any young man were to set\nabout copying him, he would not be sufferable. On the contrary, I think\na young man might be very safely recommended to take Mr. Elton as a\nmodel. Mr. Elton is good-humoured, cheerful, obliging, and gentle.\nHe seems to me to be grown particularly gentle of late. I do not know\nwhether he has any design of ingratiating himself with either of us,\nHarriet, by additional softness, but it strikes me that his manners are\nsofter than they used to be. If he means any thing, it must be to please\nyou. Did not I tell you what he said of you the other day?""]","[[54472, 55579]]","In one respect, perhaps, Mr. Elton's manners are superior to Mr.
+Knightley's or Mr. Weston's. They have more gentleness. They might be
+more safely held up as a pattern. There is an openness, a quickness,
+almost a bluntness in Mr. Weston, which every body likes in _him_,
+because there is so much good-humour with it--but that would not do to
+be copied. Neither would Mr. Knightley's downright, decided, commanding
+sort of manner, though it suits _him_ very well; his figure, and look,
+and situation in life seem to allow it; but if any young man were to set
+about copying him, he would not be sufferable. On the contrary, I think
+a young man might be very safely recommended to take Mr. Elton as a
+model. Mr. Elton is good-humoured, cheerful, obliging, and gentle.
+He seems to me to be grown particularly gentle of late. I do not know
+whether he has any design of ingratiating himself with either of us,
+Harriet, by additional softness, but it strikes me that his manners are
+softer than they used to be. If he means any thing, it must be to please
+you. Did not I tell you what he said of you the other day?",Emma,['Harriet Smith'],Anaphoric,Her next beginning was,"[['Mr. Elton', 'Mr.\nKnightley', 'Mr. Weston', 'Mr. Weston', 'him', 'Mr. Knightley', 'him', 'his', 'him', 'Mr. Elton', 'Mr. Elton', 'He', 'he', 'us', 'Harriet', 'his', 'he', 'you', 'you', 'he', 'you']]","[[[54497, 54506], [54533, 54546], [54552, 54562], [54698, 54708], [54737, 54740], [54839, 54852], [54919, 54922], [54935, 54938], [55044, 55047], [55155, 55164], [55177, 55186], [55237, 55239], [55315, 55317], [55372, 55374], [55376, 55383], [55432, 55435], [55480, 55482], [55521, 55524], [55541, 55544], [55550, 55552], [55561, 55564]]]","[[['Mr. Elton'], ['Mr. Knightley'], ['Mr. Weston'], ['Mr. Weston'], ['Mr. Weston'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Knightley'], ['Mr. Elton'], ['Mr. Elton'], ['Mr. Elton'], ['Mr. Elton'], ['Emma', 'Harriet Smith'], ['Harriet Smith'], ['Mr. Elton'], ['Mr. Elton'], ['Harriet Smith'], ['Harriet Smith'], ['Mr. Elton'], ['Harriet Smith']]]"

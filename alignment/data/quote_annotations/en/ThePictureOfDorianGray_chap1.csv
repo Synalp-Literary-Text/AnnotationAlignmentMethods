@@ -1,0 +1,330 @@
+"quoteID","quoteText","subQuotationList","quoteByteSpans","speaker","addressees","quoteType","referringExpression","mentionTextsList","mentionSpansList","mentionEntitiesList"
+"Q0","It is your best work, Basil, the best thing you have ever done, You must certainly send it next year to the
+Grosvenor. The Academy is too large and too vulgar. Whenever I have
+gone there, there have been either so many people that I have not been
+able to see the pictures, which was dreadful, or so many pictures that
+I have not been able to see the people, which was worse. The Grosvenor
+is really the only place.","['It is your best work, Basil, the best thing you have ever done,', 'You must certainly send it next year to the\nGrosvenor. The Academy is too large and too vulgar. Whenever I have\ngone there, there have been either so many people that I have not been\nable to see the pictures, which was dreadful, or so many pictures that\nI have not been able to see the people, which was worse. The Grosvenor\nis really the only place.']","[[4123, 4186], [4216, 4566]]","Lord Henry","['Basil Hallward']","Explicit","said Lord Henry","[['your', 'Basil', 'you'], ['You']]","[[[4129, 4133], [4145, 4150], [4167, 4170]], [[4216, 4219]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward']], [['Basil Hallward']]]"
+"Q1","I don t think I shall send it anywhere, No, I won t send it anywhere.","['I don t think I shall send it anywhere,', 'No, I won t send it anywhere.']","[[4570, 4609], [4717, 4746]]","Basil Hallward","['Lord Henry']","Anaphoric","he answered","[[], []]","[[], []]","[[], []]"
+"Q2","Not send it anywhere? My dear
+fellow, why? Have you any reason? What odd chaps you painters are! You
+do anything in the world to gain a reputation. As soon as you have one,
+you seem to want to throw it away. It is silly of you, for there is
+only one thing in the world worse than being talked about, and that is
+not being talked about. A portrait like this would set you far above
+all the young men in England, and make the old men quite jealous, if
+old men are ever capable of any emotion.","['Not send it anywhere? My dear\nfellow, why? Have you any reason? What odd chaps you painters are! You\ndo anything in the world to gain a reputation. As soon as you have one,\nyou seem to want to throw it away. It is silly of you, for there is\nonly one thing in the world worse than being talked about, and that is\nnot being talked about. A portrait like this would set you far above\nall the young men in England, and make the old men quite jealous, if\nold men are ever capable of any emotion.']","[[4933, 5423]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['My dear\nfellow', 'you', 'you', 'You', 'you', 'you', 'you', 'you']]","[[[4955, 4969], [4981, 4984], [5012, 5015], [5030, 5033], [5092, 5095], [5106, 5109], [5156, 5159], [5300, 5303]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward']]]"
+"Q3","I know you will laugh at me, but I really can t exhibit
+it. I have put too much of myself into it.","['I know you will laugh at me,', 'but I really can t exhibit\nit. I have put too much of myself into it.']","[[5427, 5455], [5470, 5539]]","Basil Hallward","['Lord Henry']","Anaphoric","he replied","[['you'], []]","[[[5434, 5437]], []]","[[['Lord Henry']], []]"
+"Q4","Yes, I knew you would; but it is quite true, all the same.","['Yes, I knew you would; but it is quite true, all the same.']","[[5603, 5661]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you']]","[[[5615, 5618]]]","[[['Lord Henry']]]"
+"Q5","Too much of yourself in it! Upon my word, Basil, I didn t know you
+were so vain; and I really can t see any resemblance between you, with
+your rugged strong face and your coal-black hair, and this young
+Adonis, who looks as if he was made out of ivory and rose-leaves. Why,
+my dear Basil, he is a Narcissus, and you well, of course you have an
+intellectual expression and all that. But beauty, real beauty, ends
+where an intellectual expression begins. Intellect is in itself a mode
+of exaggeration, and destroys the harmony of any face. The moment one
+sits down to think, one becomes all nose, or all forehead, or something
+horrid. Look at the successful men in any of the learned professions.
+How perfectly hideous they are! Except, of course, in the Church. But
+then in the Church they don t think. A bishop keeps on saying at the
+age of eighty what he was told to say when he was a boy of eighteen,
+and as a natural consequence he always looks absolutely delightful.
+Your mysterious young friend, whose name you have never told me, but
+whose picture really fascinates me, never thinks. I feel quite sure of
+that. He is some brainless beautiful creature who should be always here
+in winter when we have no flowers to look at, and always here in summer
+when we want something to chill our intelligence. Don t flatter
+yourself, Basil: you are not in the least like him.","['Too much of yourself in it! Upon my word, Basil, I didn t know you\nwere so vain; and I really can t see any resemblance between you, with\nyour rugged strong face and your coal-black hair, and this young\nAdonis, who looks as if he was made out of ivory and rose-leaves. Why,\nmy dear Basil, he is a Narcissus, and you well, of course you have an\nintellectual expression and all that. But beauty, real beauty, ends\nwhere an intellectual expression begins. Intellect is in itself a mode\nof exaggeration, and destroys the harmony of any face. The moment one\nsits down to think, one becomes all nose, or all forehead, or something\nhorrid. Look at the successful men in any of the learned professions.\nHow perfectly hideous they are! Except, of course, in the Church. But\nthen in the Church they don t think. A bishop keeps on saying at the\nage of eighty what he was told to say when he was a boy of eighteen,\nand as a natural consequence he always looks absolutely delightful.\nYour mysterious young friend, whose name you have never told me, but\nwhose picture really fascinates me, never thinks. I feel quite sure of\nthat. He is some brainless beautiful creature who should be always here\nin winter when we have no flowers to look at, and always here in summer\nwhen we want something to chill our intelligence. Don t flatter\nyourself, Basil: you are not in the least like him.']","[[5665, 7035]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['Basil', 'you', 'you', 'your', 'your', 'this young\nAdonis', 'he', 'my dear Basil', 'he', 'you', 'you', 'you', 'He', 'we', 'we', 'Basil', 'you', 'him']]","[[[5707, 5712], [5728, 5731], [5793, 5796], [5803, 5807], [5831, 5835], [5857, 5874], [5892, 5894], [5939, 5952], [5954, 5956], [5977, 5980], [5997, 6000], [6677, 6680], [6782, 6784], [6863, 6865], [6925, 6927], [6994, 6999], [7001, 7004], [7031, 7034]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward', 'Lord Henry'], ['Basil Hallward', 'Lord Henry'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray']]]"
+"Q6","You don t understand me, Harry, Of course I am
+not like him. I know that perfectly well. Indeed, I should be sorry to
+look like him. You shrug your shoulders? I am telling you the truth.
+There is a fatality about all physical and intellectual distinction,
+the sort of fatality that seems to dog through history the faltering
+steps of kings. It is better not to be different from one s fellows.
+The ugly and the stupid have the best of it in this world. They can sit
+at their ease and gape at the play. If they know nothing of victory,
+they are at least spared the knowledge of defeat. They live as we all
+should live undisturbed, indifferent, and without disquiet. They
+neither bring ruin upon others, nor ever receive it from alien hands.
+Your rank and wealth, Harry; my brains, such as they are my art,
+whatever it may be worth; Dorian Gray s good looks we shall all suffer
+for what the gods have given us, suffer terribly.","['You don t understand me, Harry,', 'Of course I am\nnot like him. I know that perfectly well. Indeed, I should be sorry to\nlook like him. You shrug your shoulders? I am telling you the truth.\nThere is a fatality about all physical and intellectual distinction,\nthe sort of fatality that seems to dog through history the faltering\nsteps of kings. It is better not to be different from one s fellows.\nThe ugly and the stupid have the best of it in this world. They can sit\nat their ease and gape at the play. If they know nothing of victory,\nthey are at least spared the knowledge of defeat. They live as we all\nshould live undisturbed, indifferent, and without disquiet. They\nneither bring ruin upon others, nor ever receive it from alien hands.\nYour rank and wealth, Harry; my brains, such as they are my art,\nwhatever it may be worth; Dorian Gray s good looks we shall all suffer\nfor what the gods have given us, suffer terribly.']","[[7039, 7070], [7094, 7987]]","Basil Hallward","['Lord Henry']","Anaphoric","answered the artist","[['You', 'Harry'], ['him', 'him', 'You', 'your', 'you', 'They', 'their', 'They', 'Your', 'Harry', 'Dorian Gray', 'Gray', 'we', 'us']]","[[[7039, 7042], [7064, 7069]], [[7118, 7121], [7190, 7193], [7195, 7198], [7205, 7209], [7234, 7237], [7515, 7519], [7531, 7536], [7647, 7651], [7802, 7806], [7824, 7829], [7893, 7904], [7900, 7904], [7918, 7920], [7967, 7969]]]","[[['Lord Henry'], ['Lord Henry']], [['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lady Agatha'], ['Lord Henry'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward', 'Dorian Gray', 'Henry'], ['Basil Hallward', 'Dorian Gray', 'Henry']]]"
+"Q7","Dorian Gray? Is that his name?","['Dorian Gray? Is that his name?']","[[7991, 8021]]","Lord Henry","['Basil Hallward']","Explicit","asked Lord Henry","[['Dorian Gray', 'Gray', 'his']]","[[[7991, 8002], [7998, 8002], [8012, 8015]]]","[[['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q8","Yes, that is his name. I didn t intend to tell it to you.","['Yes, that is his name. I didn t intend to tell it to you.']","[[8093, 8150]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['his', 'you']]","[[[8106, 8109], [8146, 8149]]]","[[['Dorian Gray'], ['Lord Henry']]]"
+"Q9","But why not?","['But why not?']","[[8154, 8166]]","Lord Henry","['Basil Hallward']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q10","Oh, I can t explain. When I like people immensely, I never tell their
+names to any one. It is like surrendering a part of them. I have grown
+to love secrecy. It seems to be the one thing that can make modern life
+mysterious or marvellous to us. The commonest thing is delightful if
+one only hides it. When I leave town now I never tell my people where I
+am going. If I did, I would lose all my pleasure. It is a silly habit,
+I dare say, but somehow it seems to bring a great deal of romance into
+one s life. I suppose you think me awfully foolish about it?","['Oh, I can t explain. When I like people immensely, I never tell their\nnames to any one. It is like surrendering a part of them. I have grown\nto love secrecy. It seems to be the one thing that can make modern life\nmysterious or marvellous to us. The commonest thing is delightful if\none only hides it. When I leave town now I never tell my people where I\nam going. If I did, I would lose all my pleasure. It is a silly habit,\nI dare say, but somehow it seems to bring a great deal of romance into\none s life. I suppose you think me awfully foolish about it?']","[[8170, 8726]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you']]","[[[8688, 8691]]]","[[['Lord Henry']]]"
+"Q11","Not at all, not at all, my dear Basil. You seem
+to forget that I am married, and the one charm of marriage is that it
+makes a life of deception absolutely necessary for both parties. I
+never know where my wife is, and my wife never knows what I am doing.
+When we meet we do meet occasionally, when we dine out together, or go
+down to the Duke s we tell each other the most absurd stories with the
+most serious faces. My wife is very good at it much better, in fact,
+than I am. She never gets confused over her dates, and I always do. But
+when she does find me out, she makes no row at all. I sometimes wish
+she would; but she merely laughs at me.","['Not at all,', 'not at all, my dear Basil. You seem\nto forget that I am married, and the one charm of marriage is that it\nmakes a life of deception absolutely necessary for both parties. I\nnever know where my wife is, and my wife never knows what I am doing.\nWhen we meet we do meet occasionally, when we dine out together, or go\ndown to the Duke s we tell each other the most absurd stories with the\nmost serious faces. My wife is very good at it much better, in fact,\nthan I am. She never gets confused over her dates, and I always do. But\nwhen she does find me out, she makes no row at all. I sometimes wish\nshe would; but she merely laughs at me.']","[[8730, 8741], [8765, 9399]]","Lord Henry","['Basil Hallward']","Explicit","answered Lord Henry","[[], ['my dear Basil', 'You', 'my wife', 'my wife', 'we', 'we', 'we', 'we', 'My wife', 'She', 'her', 'she', 'she', 'she', 'she']]","[[], [[8777, 8790], [8792, 8795], [8955, 8962], [8971, 8978], [9013, 9015], [9021, 9023], [9051, 9053], [9098, 9100], [9170, 9177], [9230, 9233], [9259, 9262], [9296, 9299], [9318, 9321], [9360, 9363], [9375, 9378]]]","[[], [['Basil Hallward'], ['Basil Hallward'], ['Lady Henry'], ['Lady Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lady Henry'], ['Lady Henry'], ['Lady Henry'], ['Lady Henry'], ['Lady Henry'], ['Lady Henry'], ['Lady Henry']]]"
+"Q12","I hate the way you talk about your married life, Harry, I
+believe that you are really a very good husband, but that you are
+thoroughly ashamed of your own virtues. You are an extraordinary
+fellow. You never say a moral thing, and you never do a wrong thing.
+Your cynicism is simply a pose.","['I hate the way you talk about your married life, Harry,', 'I\nbelieve that you are really a very good husband, but that you are\nthoroughly ashamed of your own virtues. You are an extraordinary\nfellow. You never say a moral thing, and you never do a wrong thing.\nYour cynicism is simply a pose.']","[[9403, 9458], [9535, 9768]]","Basil Hallward","['Lord Henry']","Explicit","said Basil Hallward","[['you', 'your', 'Harry'], ['you', 'you', 'your', 'You', 'You', 'you', 'Your']]","[[[9418, 9421], [9433, 9437], [9452, 9457]], [[9550, 9553], [9595, 9598], [9625, 9629], [9643, 9646], [9676, 9679], [9709, 9712], [9737, 9741]]]","[[['Lord Henry'], ['Lord Henry'], ['Lord Henry']], [['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry'], ['Lord Henry']]]"
+"Q13","Being natural is simply a pose, and the most irritating pose I know,","['Being natural is simply a pose, and the most irritating pose I know,']","[[9772, 9840]]","Lord Henry","['Basil Hallward']","Explicit","cried Lord Henry","[[]]","[[]]","[[]]"
+"Q14","I am afraid I must be
+going, Basil, and before I go, I insist on your
+answering a question I put to you some time ago.","['I am afraid I must be\ngoing, Basil,', 'and before I go, I insist on your\nanswering a question I put to you some time ago.']","[[10161, 10196], [10212, 10294]]","Lord Henry","['Basil Hallward']","Anaphoric","he murmured","[['Basil'], ['your', 'you']]","[[[10190, 10195]], [[10241, 10245], [10276, 10279]]]","[[['Basil Hallward']], [['Basil Hallward'], ['Basil Hallward']]]"
+"Q15","What is that?","['What is that?']","[[10298, 10311]]","Basil Hallward","['Lord Henry']","Anaphoric","said the painter","[[]]","[[]]","[[]]"
+"Q16","You know quite well.","['You know quite well.']","[[10371, 10391]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['You']]","[[[10371, 10374]]]","[[['Basil Hallward']]]"
+"Q17","I do not, Harry.","['I do not, Harry.']","[[10395, 10411]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['Harry']]","[[[10405, 10410]]]","[[['Lord Henry']]]"
+"Q18","Well, I will tell you what it is. I want you to explain to me why you
+won t exhibit Dorian Gray s picture. I want the real reason.","['Well, I will tell you what it is. I want you to explain to me why you\nwon t exhibit Dorian Gray s picture. I want the real reason.']","[[10415, 10545]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you', 'you', 'you', 'Dorian Gray', 'Gray']]","[[[10433, 10436], [10456, 10459], [10481, 10484], [10499, 10510], [10506, 10510]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q19","I told you the real reason.","['I told you the real reason.']","[[10549, 10576]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you']]","[[[10556, 10559]]]","[[['Lord Henry']]]"
+"Q20","No, you did not. You said it was because there was too much of
+yourself in it. Now, that is childish.","['No, you did not. You said it was because there was too much of\nyourself in it. Now, that is childish.']","[[10580, 10681]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you', 'You']]","[[[10584, 10587], [10597, 10600]]]","[[['Basil Hallward'], ['Basil Hallward']]]"
+"Q21","Harry, every
+portrait that is painted with feeling is a portrait of the artist, not
+of the sitter. The sitter is merely the accident, the occasion. It is
+not he who is revealed by the painter; it is rather the painter who, on
+the coloured canvas, reveals himself. The reason I will not exhibit
+this picture is that I am afraid that I have shown in it the secret of
+my own soul.","['Harry,', 'every\nportrait that is painted with feeling is a portrait of the artist, not\nof the sitter. The sitter is merely the accident, the occasion. It is\nnot he who is revealed by the painter; it is rather the painter who, on\nthe coloured canvas, reveals himself. The reason I will not exhibit\nthis picture is that I am afraid that I have shown in it the secret of\nmy own soul.']","[[10685, 10691], [10749, 11119]]","Basil Hallward","['Lord Henry']","Explicit","said Basil Hallward","[['Harry'], []]","[[[10685, 10690]], []]","[[['Lord Henry']], []]"
+"Q22","And what is that?","['And what is that?']","[[11143, 11160]]","Lord Henry","['Basil Hallward']","Anaphoric","he asked","[[]]","[[]]","[[]]"
+"Q23","I will tell you,","['I will tell you,']","[[11174, 11190]]","Basil Hallward","['Lord Henry']","Explicit","said Hallward","[['you']]","[[[11186, 11189]]]","[[['Lord Henry']]]"
+"Q24","I am all expectation, Basil,","['I am all expectation, Basil,']","[[11261, 11289]]","Lord Henry","['Basil Hallward']","Anaphoric","continued his companion","[['Basil']]","[[[11283, 11288]]]","[[['Basil Hallward']]]"
+"Q25","Oh, there is really very little to tell, Harry, and I am afraid you will hardly understand it. Perhaps you will hardly
+believe it.","['Oh, there is really very little to tell, Harry,', 'and I am afraid you will hardly understand it. Perhaps you will hardly\nbelieve it.']","[[11335, 11382], [11407, 11489]]","Basil Hallward","['Lord Henry']","Anaphoric","answered the painter","[['Harry'], ['you', 'you']]","[[[11376, 11381]], [[11423, 11426], [11462, 11465]]]","[[['Lord Henry']], [['Lord Henry'], ['Lord Henry']]]"
+"Q26","I am quite sure I shall understand it, and as for believing things, I can believe anything, provided that it
+is quite incredible.","['I am quite sure I shall understand it,', 'and as for believing things, I can believe anything, provided that it\nis quite incredible.']","[[11592, 11630], [11705, 11795]]","Lord Henry","['Basil Hallward']","Anaphoric","he replied","[[], []]","[[], []]","[[], []]"
+"Q27","The story is simply this, Two
+months ago I went to a crush at Lady Brandon s. You know we poor
+artists have to show ourselves in society from time to time, just to
+remind the public that we are not savages. With an evening coat and a
+white tie, as you told me once, anybody, even a stock-broker, can gain
+a reputation for being civilized. Well, after I had been in the room
+about ten minutes, talking to huge overdressed dowagers and tedious
+academicians, I suddenly became conscious that some one was looking at
+me. I turned half-way round and saw Dorian Gray for the first time.
+When our eyes met, I felt that I was growing pale. A curious sensation
+of terror came over me. I knew that I had come face to face with some
+one whose mere personality was so fascinating that, if I allowed it to
+do so, it would absorb my whole nature, my whole soul, my very art
+itself. I did not want any external influence in my life. You know
+yourself, Harry, how independent I am by nature. I have always been my
+own master; had at least always been so, till I met Dorian Gray.
+Then but I don t know how to explain it to you. Something seemed to
+tell me that I was on the verge of a terrible crisis in my life. I had
+a strange feeling that fate had in store for me exquisite joys and
+exquisite sorrows. I grew afraid and turned to quit the room. It was
+not conscience that made me do so: it was a sort of cowardice. I take
+no credit to myself for trying to escape.","['The story is simply this,', 'Two\nmonths ago I went to a crush at Lady Brandon s. You know we poor\nartists have to show ourselves in society from time to time, just to\nremind the public that we are not savages. With an evening coat and a\nwhite tie, as you told me once, anybody, even a stock-broker, can gain\na reputation for being civilized. Well, after I had been in the room\nabout ten minutes, talking to huge overdressed dowagers and tedious\nacademicians, I suddenly became conscious that some one was looking at\nme. I turned half-way round and saw Dorian Gray for the first time.\nWhen our eyes met, I felt that I was growing pale. A curious sensation\nof terror came over me. I knew that I had come face to face with some\none whose mere personality was so fascinating that, if I allowed it to\ndo so, it would absorb my whole nature, my whole soul, my very art\nitself. I did not want any external influence in my life. You know\nyourself, Harry, how independent I am by nature. I have always been my\nown master; had at least always been so, till I met Dorian Gray.\nThen but I don t know how to explain it to you. Something seemed to\ntell me that I was on the verge of a terrible crisis in my life. I had\na strange feeling that fate had in store for me exquisite joys and\nexquisite sorrows. I grew afraid and turned to quit the room. It was\nnot conscience that made me do so: it was a sort of cowardice. I take\nno credit to myself for trying to escape.']","[[12166, 12191], [12228, 13651]]","Basil Hallward","['Lord Henry']","Anaphoric","said the painter","[[], ['you', 'Dorian Gray', 'You', 'Harry', 'Dorian Gray', 'Gray', 'you']]","[[], [[12450, 12453], [12751, 12762], [13120, 13123], [13139, 13144], [13252, 13263], [13259, 13263], [13308, 13311]]]","[[], [['Lord Henry'], ['Dorian Gray'], ['Lord Henry'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry']]]"
+"Q28","Conscience and cowardice are really the same things, Basil. Conscience
+is the trade-name of the firm. That is all.","['Conscience and cowardice are really the same things, Basil. Conscience\nis the trade-name of the firm. That is all.']","[[13655, 13769]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['Basil']]","[[[13708, 13713]]]","[[['Basil Hallward']]]"
+"Q29","I don t believe that, Harry, and I don t believe you do either.
+However, whatever was my motive and it may have been pride, for I used
+to be very proud I certainly struggled to the door. There, of course, I
+stumbled against Lady Brandon.","['I don t believe that, Harry, and I don t believe you do either.\nHowever, whatever was my motive and it may have been pride, for I used\nto be very proud I certainly struggled to the door. There, of course, I\nstumbled against Lady Brandon.']","[[13773, 14011]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['Harry', 'you']]","[[[13795, 13800], [13822, 13825]]]","[[['Lord Henry'], ['Lord Henry']]]"
+"Q30","she screamed out. You know her curiously shrill voice?","['she screamed out. You know her curiously shrill voice?']","[[14065, 14120]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['You']]","[[[14084, 14087]]]","[[['Lord Henry']]]"
+"Q31","Yes; she is a peacock in everything but beauty,","['Yes; she is a peacock in everything but beauty,']","[[14124, 14171]]","Lord Henry","['Basil Hallward']","Explicit","said Lord Henry","[[]]","[[]]","[[]]"
+"Q32","I could not get rid of her. She brought me up to royalties, and people
+with stars and garters, and elderly ladies with gigantic tiaras and
+parrot noses. She spoke of me as her dearest friend. I had only met her
+once before, but she took it into her head to lionize me. I believe
+some picture of mine had made a great success at the time, at least had
+been chattered about in the penny newspapers, which is the
+nineteenth-century standard of immortality. Suddenly I found myself
+face to face with the young man whose personality had so strangely
+stirred me. We were quite close, almost touching. Our eyes met again.
+It was reckless of me, but I asked Lady Brandon to introduce me to him.
+Perhaps it was not so reckless, after all. It was simply inevitable. We
+would have spoken to each other without any introduction. I am sure of
+that. Dorian told me so afterwards. He, too, felt that we were destined
+to know each other.","['I could not get rid of her. She brought me up to royalties, and people\nwith stars and garters, and elderly ladies with gigantic tiaras and\nparrot noses. She spoke of me as her dearest friend. I had only met her\nonce before, but she took it into her head to lionize me. I believe\nsome picture of mine had made a great success at the time, at least had\nbeen chattered about in the penny newspapers, which is the\nnineteenth-century standard of immortality. Suddenly I found myself\nface to face with the young man whose personality had so strangely\nstirred me. We were quite close, almost touching. Our eyes met again.\nIt was reckless of me, but I asked Lady Brandon to introduce me to him.\nPerhaps it was not so reckless, after all. It was simply inevitable. We\nwould have spoken to each other without any introduction. I am sure of\nthat. Dorian told me so afterwards. He, too, felt that we were destined\nto know each other.']","[[14249, 15170]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['her dearest friend', 'the young man whose personality had so strangely\nstirred me', 'We', 'Our', 'him', 'We', 'Dorian', 'He', 'we']]","[[[14421, 14439], [14745, 14804], [14806, 14808], [14844, 14847], [14931, 14934], [15005, 15007], [15085, 15091], [15115, 15117], [15134, 15136]]]","[[['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray', 'Basil Hallward'], ['Basil Hallward', 'Dorian Gray'], ['Dorian Gray'], ['Dorian Gray', 'Basil Hallward'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray', 'Basil Hallward']]]"
+"Q33","And how did Lady Brandon describe this wonderful young man? I know she goes in for giving a rapid _pr cis_ of all her
+guests. I remember her bringing me up to a truculent and red-faced old
+gentleman covered all over with orders and ribbons, and hissing into my
+ear, in a tragic whisper which must have been perfectly audible to
+everybody in the room, the most astounding details. I simply fled. I
+like to find out people for myself. But Lady Brandon treats her guests
+exactly as an auctioneer treats his goods. She either explains them
+entirely away, or tells one everything about them except what one wants
+to know.","['And how did Lady Brandon describe this wonderful young man?', 'I know she goes in for giving a rapid _pr cis_ of all her\nguests. I remember her bringing me up to a truculent and red-faced old\ngentleman covered all over with orders and ribbons, and hissing into my\near, in a tragic whisper which must have been perfectly audible to\neverybody in the room, the most astounding details. I simply fled. I\nlike to find out people for myself. But Lady Brandon treats her guests\nexactly as an auctioneer treats his goods. She either explains them\nentirely away, or tells one everything about them except what one wants\nto know.']","[[15174, 15233], [15257, 15813]]","Lord Henry","['Basil Hallward']","Anaphoric","asked his companion","[['this wonderful young man'], []]","[[[15208, 15232]], []]","[[['Dorian Gray']], []]"
+"Q34","Poor Lady Brandon! You are hard on her, Harry!","['Poor Lady Brandon! You are hard on her, Harry!']","[[15817, 15863]]","Basil Hallward","['Lord Henry']","Explicit","said Hallward","[['You', 'Harry']]","[[[15836, 15839], [15857, 15862]]]","[[['Lord Henry'], ['Lord Henry']]]"
+"Q35","My dear fellow, she tried to found a _salon_, and only succeeded in
+opening a restaurant. How could I admire her? But tell me, what did she
+say about Mr. Dorian Gray?","['My dear fellow, she tried to found a _salon_, and only succeeded in\nopening a restaurant. How could I admire her? But tell me, what did she\nsay about Mr. Dorian Gray?']","[[15893, 16059]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['My dear fellow', 'Mr. Dorian Gray', 'Gray']]","[[[15893, 15907], [16043, 16058], [16054, 16058]]]","[[['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q36","Oh, something like,","['Oh, something like,']","[[16063, 16083]]","Basil Hallward","['Lord Henry']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q37","Neither of us could help laughing, and we became friends at once.","['Neither of us could help laughing, and we became friends at once.']","[[16262, 16327]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['us', 'we']]","[[[16273, 16275], [16301, 16303]]]","[[['Basil Hallward', 'Dorian Gray'], ['Dorian Gray', 'Basil Hallward']]]"
+"Q38","Laughter is not at all a bad beginning for a friendship, and it is far
+the best ending for one,","['Laughter is not at all a bad beginning for a friendship, and it is far\nthe best ending for one,']","[[16331, 16426]]","Lord Henry","['Basil Hallward']","Anaphoric","said the young lord","[[]]","[[]]","[[]]"
+"Q39","You don t understand what friendship is,
+Harry, or what enmity is, for that matter. You like every
+one; that is to say, you are indifferent to every one.","['You don t understand what friendship is,\nHarry,', 'or what enmity is, for that matter. You like every\none; that is to say, you are indifferent to every one.']","[[16500, 16547], [16562, 16667]]","Basil Hallward","['Lord Henry']","Anaphoric","he murmured","[['You', 'Harry'], ['You', 'you']]","[[[16500, 16503], [16541, 16546]], [[16598, 16601], [16634, 16637]]]","[[['Lord Henry'], ['Lord Henry']], [['Lord Henry'], ['Lord Henry']]]"
+"Q40","How horribly unjust of you! Yes; horribly unjust of you. I make a great difference
+between people. I choose my friends for their good looks, my
+acquaintances for their good characters, and my enemies for their good
+intellects. A man cannot be too careful in the choice of his enemies. I
+have not got one who is a fool. They are all men of some intellectual
+power, and consequently they all appreciate me. Is that very vain of
+me? I think it is rather vain.","['How horribly unjust of you!', 'Yes; horribly unjust of you. I make a great difference\nbetween people. I choose my friends for their good looks, my\nacquaintances for their good characters, and my enemies for their good\nintellects. A man cannot be too careful in the choice of his enemies. I\nhave not got one who is a fool. They are all men of some intellectual\npower, and consequently they all appreciate me. Is that very vain of\nme? I think it is rather vain.']","[[16671, 16698], [16888, 17316]]","Lord Henry","['Basil Hallward']","Explicit","cried Lord Henry","[['you'], ['you', 'their']]","[[[16694, 16697]], [[16912, 16915], [16983, 16988]]]","[[['Basil Hallward']], [['Basil Hallward'], ['Basil Hallward']]]"
+"Q41","I should think it was, Harry. But according to your category I must be
+merely an acquaintance.","['I should think it was, Harry. But according to your category I must be\nmerely an acquaintance.']","[[17320, 17414]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['Harry', 'your']]","[[[17343, 17348], [17367, 17371]]]","[[['Lord Henry'], ['Lord Henry']]]"
+"Q42","My dear old Basil, you are much more than an acquaintance.","['My dear old Basil, you are much more than an acquaintance.']","[[17418, 17476]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['My dear old Basil', 'you']]","[[[17418, 17435], [17437, 17440]]]","[[['Basil Hallward'], ['Basil Hallward']]]"
+"Q43","And much less than a friend. A sort of brother, I suppose?","['And much less than a friend. A sort of brother, I suppose?']","[[17480, 17538]]","Basil Hallward","['Lord Henry']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q44","Oh, brothers! I don t care for brothers. My elder brother won t die,
+and my younger brothers seem never to do anything else.","['Oh, brothers! I don t care for brothers. My elder brother won t die,\nand my younger brothers seem never to do anything else.']","[[17542, 17666]]","Lord Henry","['Basil Hallward']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q45","Harry!","['Harry!']","[[17670, 17676]]","Basil Hallward","['Lord Henry']","Explicit","exclaimed Hallward","[['Harry']]","[[[17670, 17675]]]","[[['Lord Henry']]]"
+"Q46","My dear fellow, I am not quite serious. But I can t help detesting my
+relations. I suppose it comes from the fact that none of us can stand
+other people having the same faults as ourselves. I quite sympathize
+with the rage of the English democracy against what they call the vices
+of the upper orders. The masses feel that drunkenness, stupidity, and
+immorality should be their own special property, and that if any one of
+us makes an ass of himself, he is poaching on their preserves. When
+poor Southwark got into the divorce court, their indignation was quite
+magnificent. And yet I don t suppose that ten per cent of the
+proletariat live correctly.","['My dear fellow, I am not quite serious. But I can t help detesting my\nrelations. I suppose it comes from the fact that none of us can stand\nother people having the same faults as ourselves. I quite sympathize\nwith the rage of the English democracy against what they call the vices\nof the upper orders. The masses feel that drunkenness, stupidity, and\nimmorality should be their own special property, and that if any one of\nus makes an ass of himself, he is poaching on their preserves. When\npoor Southwark got into the divorce court, their indignation was quite\nmagnificent. And yet I don t suppose that ten per cent of the\nproletariat live correctly.']","[[17710, 18361]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['My dear fellow']]","[[[17710, 17724]]]","[[['Basil Hallward']]]"
+"Q47","I don t agree with a single word that you have said, and, what is
+more, Harry, I feel sure you don t either.","['I don t agree with a single word that you have said, and, what is\nmore, Harry, I feel sure you don t either.']","[[18365, 18473]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you', 'Harry', 'you']]","[[[18403, 18406], [18437, 18442], [18456, 18459]]]","[[['Lord Henry'], ['Lord Henry'], ['Lord Henry']]]"
+"Q48","How English you are
+Basil! That is the second time you have made that observation. If one
+puts forward an idea to a true Englishman always a rash thing to do he
+never dreams of considering whether the idea is right or wrong. The
+only thing he considers of any importance is whether one believes it
+oneself. Now, the value of an idea has nothing whatsoever to do with
+the sincerity of the man who expresses it. Indeed, the probabilities
+are that the more insincere the man is, the more purely intellectual
+will the idea be, as in that case it will not be coloured by either his
+wants, his desires, or his prejudices. However, I don t propose to
+discuss politics, sociology, or metaphysics with you. I like persons
+better than principles, and I like persons with no principles better
+than anything else in the world. Tell me more about Mr. Dorian Gray.
+How often do you see him?","['How English you are\nBasil! That is the second time you have made that observation. If one\nputs forward an idea to a true Englishman always a rash thing to do he\nnever dreams of considering whether the idea is right or wrong. The\nonly thing he considers of any importance is whether one believes it\noneself. Now, the value of an idea has nothing whatsoever to do with\nthe sincerity of the man who expresses it. Indeed, the probabilities\nare that the more insincere the man is, the more purely intellectual\nwill the idea be, as in that case it will not be coloured by either his\nwants, his desires, or his prejudices. However, I don t propose to\ndiscuss politics, sociology, or metaphysics with you. I like persons\nbetter than principles, and I like persons with no principles better\nthan anything else in the world. Tell me more about Mr. Dorian Gray.\nHow often do you see him?']","[[18595, 19471]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you', 'Basil', 'you', 'he', 'he', 'his', 'his', 'his', 'you', 'Mr. Dorian Gray', 'Gray', 'you', 'him']]","[[[18607, 18610], [18615, 18620], [18646, 18649], [18753, 18755], [18835, 18837], [19168, 19171], [19179, 19182], [19195, 19198], [19288, 19291], [19429, 19444], [19440, 19444], [19459, 19462], [19467, 19470]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray']]]"
+"Q49","Every day. I couldn t be happy if I didn t see him every day. He is
+absolutely necessary to me.","['Every day. I couldn t be happy if I didn t see him every day. He is\nabsolutely necessary to me.']","[[19475, 19570]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['him', 'He']]","[[[19522, 19525], [19537, 19539]]]","[[['Dorian Gray'], ['Dorian Gray']]]"
+"Q50","How extraordinary! I thought you would never care for anything but
+your art.","['How extraordinary! I thought you would never care for anything but\nyour art.']","[[19574, 19650]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you', 'your']]","[[[19603, 19606], [19641, 19645]]]","[[['Basil Hallward'], ['Basil Hallward']]]"
+"Q51","He is all my art to me now, I sometimes
+think, Harry, that there are only two eras of any importance in the
+world s history. The first is the appearance of a new medium for art,
+and the second is the appearance of a new personality for art also.
+What the invention of oil-painting was to the Venetians, the face of
+Antinous was to late Greek sculpture, and the face of Dorian Gray will
+some day be to me. It is not merely that I paint from him, draw from
+him, sketch from him. Of course, I have done all that. But he is much
+more to me than a model or a sitter. I won t tell you that I am
+dissatisfied with what I have done of him, or that his beauty is such
+that art cannot express it. There is nothing that art cannot express,
+and I know that the work I have done, since I met Dorian Gray, is good
+work, is the best work of my life. But in some curious way I wonder
+will you understand me? his personality has suggested to me an entirely
+new manner in art, an entirely new mode of style. I see things
+differently, I think of them differently. I can now recreate life in a
+way that was hidden from me before. who is it who says that? I forget; but it is what Dorian Gray
+has been to me. The merely visible presence of this lad for he seems to
+me little more than a lad, though he is really over twenty his merely
+visible presence ah! I wonder can you realize all that that means?
+Unconsciously he defines for me the lines of a fresh school, a school
+that is to have in it all the passion of the romantic spirit, all the
+perfection of the spirit that is Greek. The harmony of soul and
+body how much that is! We in our madness have separated the two, and
+have invented a realism that is vulgar, an ideality that is void.
+Harry! if you only knew what Dorian Gray is to me! You remember that
+landscape of mine, for which Agnew offered me such a huge price but
+which I would not part with? It is one of the best things I have ever
+done. And why is it so? Because, while I was painting it, Dorian Gray
+sat beside me. Some subtle influence passed from him to me, and for the
+first time in my life I saw in the plain woodland the wonder I had
+always looked for and always missed.","['He is all my art to me now,', 'I sometimes\nthink, Harry, that there are only two eras of any importance in the\nworld s history. The first is the appearance of a new medium for art,\nand the second is the appearance of a new personality for art also.\nWhat the invention of oil-painting was to the Venetians, the face of\nAntinous was to late Greek sculpture, and the face of Dorian Gray will\nsome day be to me. It is not merely that I paint from him, draw from\nhim, sketch from him. Of course, I have done all that. But he is much\nmore to me than a model or a sitter. I won t tell you that I am\ndissatisfied with what I have done of him, or that his beauty is such\nthat art cannot express it. There is nothing that art cannot express,\nand I know that the work I have done, since I met Dorian Gray, is good\nwork, is the best work of my life. But in some curious way I wonder\nwill you understand me? his personality has suggested to me an entirely\nnew manner in art, an entirely new mode of style. I see things\ndifferently, I think of them differently. I can now recreate life in a\nway that was hidden from me before.', 'who is it who says that? I forget; but it is what Dorian Gray\nhas been to me. The merely visible presence of this lad for he seems to\nme little more than a lad, though he is really over twenty his merely\nvisible presence ah! I wonder can you realize all that that means?\nUnconsciously he defines for me the lines of a fresh school, a school\nthat is to have in it all the passion of the romantic spirit, all the\nperfection of the spirit that is Greek. The harmony of soul and\nbody how much that is! We in our madness have separated the two, and\nhave invented a realism that is vulgar, an ideality that is void.\nHarry! if you only knew what Dorian Gray is to me! You remember that\nlandscape of mine, for which Agnew offered me such a huge price but\nwhich I would not part with? It is one of the best things I have ever\ndone. And why is it so? Because, while I was painting it, Dorian Gray\nsat beside me. Some subtle influence passed from him to me, and for the\nfirst time in my life I saw in the plain woodland the wonder I had\nalways looked for and always missed.']","[[19654, 19681], [19710, 20792], [20829, 21891]]","Basil Hallward","['Lord Henry']","Anaphoric","said the painter","[['He'], ['Harry', 'Dorian Gray', 'Gray', 'him', 'him', 'him', 'he', 'you', 'him', 'his', 'Dorian Gray', 'you', 'his', 'them'], ['Dorian Gray', 'Gray', 'this lad', 'he', 'he', 'his', 'you', 'he', 'Harry', 'you', 'Dorian Gray', 'Gray', 'You', 'Dorian Gray', 'Gray', 'him']]","[[[19654, 19656]], [[19729, 19734], [20051, 20062], [20058, 20062], [20122, 20125], [20137, 20140], [20154, 20157], [20196, 20198], [20257, 20260], [20309, 20312], [20322, 20325], [20461, 20472], [20555, 20558], [20574, 20577], [20709, 20713]], [[20879, 20890], [20886, 20890], [20938, 20946], [20951, 20953], [20997, 20999], [21022, 21025], [21067, 21070], [21114, 21116], [21439, 21444], [21449, 21452], [21468, 21479], [21475, 21479], [21490, 21493], [21704, 21715], [21711, 21715], [21765, 21768]]]","[[['Dorian Gray']], [['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray']], [['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Lord Henry'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q52","Basil, this is extraordinary! I must see Dorian Gray.","['Basil, this is extraordinary! I must see Dorian Gray.']","[[21895, 21948]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['Basil', 'Dorian Gray', 'Gray']]","[[[21895, 21900], [21936, 21947], [21943, 21947]]]","[[['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q53","Harry, Dorian Gray is to me simply
+a motive in art. You might see nothing in him. I see everything in him.
+He is never more present in my work than when no image of him is there.
+He is a suggestion, as I have said, of a new manner. I find him in the
+curves of certain lines, in the loveliness and subtleties of certain
+colours. That is all.","['Harry,', 'Dorian Gray is to me simply\na motive in art. You might see nothing in him. I see everything in him.\nHe is never more present in my work than when no image of him is there.\nHe is a suggestion, as I have said, of a new manner. I find him in the\ncurves of certain lines, in the loveliness and subtleties of certain\ncolours. That is all.']","[[22047, 22053], [22065, 22398]]","Basil Hallward","['Lord Henry']","Anaphoric","he said","[['Harry'], ['Dorian Gray', 'Gray', 'You', 'him', 'him', 'He', 'him', 'He', 'him']]","[[[22047, 22052]], [[22065, 22076], [22072, 22076], [22110, 22113], [22135, 22138], [22160, 22163], [22165, 22167], [22223, 22226], [22237, 22239], [22297, 22300]]]","[[['Lord Henry']], [['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q54","Then why won t you exhibit his portrait?","['Then why won t you exhibit his portrait?']","[[22402, 22442]]","Lord Henry","['Basil Hallward']","Explicit","asked Lord Henry","[['you', 'his']]","[[[22417, 22420], [22429, 22432]]]","[[['Basil Hallward'], ['Dorian Gray']]]"
+"Q55","Because, without intending it, I have put into it some expression of
+all this curious artistic idolatry, of which, of course, I have never
+cared to speak to him. He knows nothing about it. He shall never know
+anything about it. But the world might guess it, and I will not bare my
+soul to their shallow prying eyes. My heart shall never be put under
+their microscope. There is too much of myself in the thing, Harry too
+much of myself!","['Because, without intending it, I have put into it some expression of\nall this curious artistic idolatry, of which, of course, I have never\ncared to speak to him. He knows nothing about it. He shall never know\nanything about it. But the world might guess it, and I will not bare my\nsoul to their shallow prying eyes. My heart shall never be put under\ntheir microscope. There is too much of myself in the thing, Harry too\nmuch of myself!']","[[22464, 22899]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['him', 'He', 'He', 'Harry']]","[[[22621, 22624], [22626, 22628], [22653, 22655], [22874, 22879]]]","[[['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry']]]"
+"Q56","Poets are not so scrupulous as you are. They know how useful passion
+is for publication. Nowadays a broken heart will run to many editions.","['Poets are not so scrupulous as you are. They know how useful passion\nis for publication. Nowadays a broken heart will run to many editions.']","[[22903, 23042]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you']]","[[[22934, 22937]]]","[[['Basil Hallward']]]"
+"Q57","I hate them for it, An artist should create
+beautiful things, but should put nothing of his own life into them. We
+live in an age when men treat art as if it were meant to be a form of
+autobiography. We have lost the abstract sense of beauty. Some day I
+will show the world what it is; and for that reason the world shall
+never see my portrait of Dorian Gray.","['I hate them for it,', 'An artist should create\nbeautiful things, but should put nothing of his own life into them. We\nlive in an age when men treat art as if it were meant to be a form of\nautobiography. We have lost the abstract sense of beauty. Some day I\nwill show the world what it is; and for that reason the world shall\nnever see my portrait of Dorian Gray.']","[[23046, 23065], [23084, 23423]]","Basil Hallward","['Lord Henry']","Explicit","cried Hallward","[[], ['Dorian Gray', 'Gray']]","[[], [[23411, 23422], [23418, 23422]]]","[[], [['Dorian Gray'], ['Dorian Gray']]]"
+"Q58","I think you are wrong, Basil, but I won t argue with you. It is only
+the intellectually lost who ever argue. Tell me, is Dorian Gray very
+fond of you?","['I think you are wrong, Basil, but I won t argue with you. It is only\nthe intellectually lost who ever argue. Tell me, is Dorian Gray very\nfond of you?']","[[23427, 23577]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['you', 'Basil', 'you', 'Dorian Gray', 'Gray', 'you']]","[[[23435, 23438], [23450, 23455], [23480, 23483], [23548, 23559], [23555, 23559], [23573, 23576]]]","[[['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward']]]"
+"Q59","He likes me, I know he likes me. Of course I flatter him dreadfully.
+I find a strange pleasure in saying things to him that I know I shall
+be sorry for having said. As a rule, he is charming to me, and we sit
+in the studio and talk of a thousand things. Now and then, however, he
+is horribly thoughtless, and seems to take a real delight in giving me
+pain. Then I feel, Harry, that I have given away my whole soul to some
+one who treats it as if it were a flower to put in his coat, a bit of
+decoration to charm his vanity, an ornament for a summer s day.","['He likes me,', 'I know he likes me. Of course I flatter him dreadfully.\nI find a strange pleasure in saying things to him that I know I shall\nbe sorry for having said. As a rule, he is charming to me, and we sit\nin the studio and talk of a thousand things. Now and then, however, he\nis horribly thoughtless, and seems to take a real delight in giving me\npain. Then I feel, Harry, that I have given away my whole soul to some\none who treats it as if it were a flower to put in his coat, a bit of\ndecoration to charm his vanity, an ornament for a summer s day.']","[[23623, 23635], [23665, 24207]]","Basil Hallward","['Lord Henry']","Anaphoric","he answered","[['He'], ['he', 'him', 'him', 'he', 'we', 'he', 'Harry', 'his', 'his']]","[[[23623, 23625]], [[23672, 23674], [23705, 23708], [23767, 23770], [23828, 23830], [23854, 23856], [23929, 23931], [24022, 24027], [24125, 24128], [24164, 24167]]]","[[['Dorian Gray']], [['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray', 'Basil Hallward'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray']]]"
+"Q60","Days in summer, Basil, are apt to linger, Perhaps you will tire sooner than he will. It is a sad thing to think
+of, but there is no doubt that genius lasts longer than beauty. That
+accounts for the fact that we all take such pains to over-educate
+ourselves. In the wild struggle for existence, we want to have
+something that endures, and so we fill our minds with rubbish and
+facts, in the silly hope of keeping our place. The thoroughly
+well-informed man that is the modern ideal. And the mind of the
+thoroughly well-informed man is a dreadful thing. It is like a
+_bric- -brac_ shop, all monsters and dust, with everything priced above
+its proper value. I think you will tire first, all the same. Some day
+you will look at your friend, and he will seem to you to be a little
+out of drawing, or you won t like his tone of colour, or something. You
+will bitterly reproach him in your own heart, and seriously think that
+he has behaved very badly to you. The next time he calls, you will be
+perfectly cold and indifferent. It will be a great pity, for it will
+alter you. What you have told me is quite a romance, a romance of art
+one might call it, and the worst of having a romance of any kind is
+that it leaves one so unromantic.","['Days in summer, Basil, are apt to linger,', 'Perhaps you will tire sooner than he will. It is a sad thing to think\nof, but there is no doubt that genius lasts longer than beauty. That\naccounts for the fact that we all take such pains to over-educate\nourselves. In the wild struggle for existence, we want to have\nsomething that endures, and so we fill our minds with rubbish and\nfacts, in the silly hope of keeping our place. The thoroughly\nwell-informed man that is the modern ideal. And the mind of the\nthoroughly well-informed man is a dreadful thing. It is like a\n_bric- -brac_ shop, all monsters and dust, with everything priced above\nits proper value. I think you will tire first, all the same. Some day\nyou will look at your friend, and he will seem to you to be a little\nout of drawing, or you won t like his tone of colour, or something. You\nwill bitterly reproach him in your own heart, and seriously think that\nhe has behaved very badly to you. The next time he calls, you will be\nperfectly cold and indifferent. It will be a great pity, for it will\nalter you. What you have told me is quite a romance, a romance of art\none might call it, and the worst of having a romance of any kind is\nthat it leaves one so unromantic.']","[[24211, 24252], [24276, 25463]]","Lord Henry","['Basil Hallward']","Explicit","murmured Lord Henry","[['Basil'], ['you', 'he', 'you', 'you', 'he', 'you', 'you', 'his', 'You', 'him', 'your', 'he', 'you', 'he', 'you', 'you', 'you']]","[[[24227, 24232]], [[24284, 24287], [24310, 24312], [24897, 24900], [24941, 24944], [24975, 24977], [24991, 24994], [25029, 25032], [25044, 25047], [25078, 25081], [25105, 25108], [25112, 25116], [25153, 25155], [25182, 25185], [25201, 25203], [25211, 25214], [25298, 25301], [25308, 25311]]]","[[['Basil Hallward']], [['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Dorian Gray'], ['Basil Hallward'], ['Basil Hallward'], ['Basil Hallward']]]"
+"Q61","Harry, don t talk like that. As long as I live, the personality of
+Dorian Gray will dominate me. You can t feel what I feel. You change
+too often.","['Harry, don t talk like that. As long as I live, the personality of\nDorian Gray will dominate me. You can t feel what I feel. You change\ntoo often.']","[[25467, 25613]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['Harry', 'Dorian Gray', 'Gray', 'You', 'You']]","[[[25467, 25472], [25534, 25545], [25541, 25545], [25564, 25567], [25592, 25595]]]","[[['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Lord Henry']]]"
+"Q62","Ah, my dear Basil, that is exactly why I can feel it. Those who are
+faithful know only the trivial side of love: it is the faithless who
+know love s tragedies.","['Ah, my dear Basil, that is exactly why I can feel it. Those who are\nfaithful know only the trivial side of love: it is the faithless who\nknow love s tragedies.']","[[25617, 25776]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['my dear Basil']]","[[[25621, 25634]]]","[[['Basil Hallward']]]"
+"Q63","My dear fellow, I have just remembered.","['My dear fellow, I have just remembered.']","[[27034, 27073]]","Lord Henry","['Basil Hallward']","Anaphoric","He turned to Hallward and said","[[]]","[[]]","[[]]"
+"Q64","Remembered what, Harry?","['Remembered what, Harry?']","[[27077, 27100]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['Harry']]","[[[27094, 27099]]]","[[['Lord Henry']]]"
+"Q65","Where I heard the name of Dorian Gray.","['Where I heard the name of Dorian Gray.']","[[27104, 27142]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['Dorian Gray', 'Gray']]","[[[27130, 27141], [27137, 27141]]]","[[['Dorian Gray'], ['Dorian Gray']]]"
+"Q66","Where was it?","['Where was it?']","[[27146, 27159]]","Basil Hallward","['Lord Henry']","Explicit","asked Hallward","[[]]","[[]]","[[]]"
+"Q67","Don t look so angry, Basil. It was at my aunt, Lady Agatha s. She told
+me she had discovered a wonderful young man who was going to help her
+in the East End, and that his name was Dorian Gray. I am bound to state
+that she never told me he was good-looking. Women have no appreciation
+of good looks; at least, good women have not. She said that he was very
+earnest and had a beautiful nature. I at once pictured to myself a
+creature with spectacles and lank hair, horribly freckled, and tramping
+about on huge feet. I wish I had known it was your friend.","['Don t look so angry, Basil. It was at my aunt, Lady Agatha s. She told\nme she had discovered a wonderful young man who was going to help her\nin the East End, and that his name was Dorian Gray. I am bound to state\nthat she never told me he was good-looking. Women have no appreciation\nof good looks; at least, good women have not. She said that he was very\nearnest and had a beautiful nature. I at once pictured to myself a\ncreature with spectacles and lank hair, horribly freckled, and tramping\nabout on huge feet. I wish I had known it was your friend.']","[[27200, 27753]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['Basil', 'my aunt', 'Lady Agatha', 'She', 'she', 'a wonderful young man', 'her', 'his', 'Dorian Gray', 'Gray', 'she', 'he', 'She', 'he']]","[[[27221, 27226], [27238, 27245], [27247, 27258], [27262, 27265], [27274, 27277], [27293, 27314], [27337, 27340], [27367, 27370], [27380, 27391], [27387, 27391], [27418, 27421], [27436, 27438], [27530, 27533], [27544, 27546]]]","[[['Basil Hallward'], ['Lady Agatha'], ['Lady Agatha'], ['Lady Agatha'], ['Lady Agatha'], ['Dorian Gray'], ['Lady Agatha'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lady Agatha'], ['Dorian Gray'], ['Lady Agatha'], ['Dorian Gray']]]"
+"Q68","I am very glad you didn t, Harry.","['I am very glad you didn t, Harry.']","[[27757, 27790]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you', 'Harry']]","[[[27772, 27775], [27784, 27789]]]","[[['Lord Henry'], ['Lord Henry']]]"
+"Q69","Why?","['Why?']","[[27794, 27798]]","Lord Henry","['Basil Hallward']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q70","I don t want you to meet him.","['I don t want you to meet him.']","[[27802, 27831]]","Basil Hallward","['Lord Henry']","Implicit","nan","[['you', 'him']]","[[[27815, 27818], [27827, 27830]]]","[[['Lord Henry'], ['Dorian Gray']]]"
+"Q71","You don t want me to meet him?","['You don t want me to meet him?']","[[27835, 27865]]","Lord Henry","['Basil Hallward']","Implicit","nan","[['You', 'him']]","[[[27835, 27838], [27861, 27864]]]","[[['Basil Hallward'], ['Dorian Gray']]]"
+"Q72","No.","['No.']","[[27869, 27872]]","Basil Hallward","['Lord Henry']","Implicit","nan","[[]]","[[]]","[[]]"
+"Q73","Mr. Dorian Gray is in the studio, sir,","['Mr. Dorian Gray is in the studio, sir,']","[[27876, 27914]]","Parker","['Basil Hallward', 'Lord Henry']","Anaphoric","said the butler","[['Mr. Dorian Gray', 'Gray', 'sir']]","[[[27876, 27891], [27887, 27891], [27910, 27913]]]","[[['Dorian Gray'], ['Dorian Gray'], ['Basil Hallward']]]"
+"Q74","You must introduce me now,","['You must introduce me now,']","[[27959, 27985]]","Lord Henry","['Basil Hallward', 'Parker']","Explicit","cried Lord Henry","[['You']]","[[[27959, 27962]]]","[[['Basil Hallward']]]"
+"Q75","Ask Mr. Gray to wait, Parker: I shall be in in a few moments.","['Ask Mr. Gray to wait, Parker: I shall be in in a few moments.']","[[28088, 28149]]","Basil Hallward","['Parker', 'Lord Henry']","Implicit","nan","[['Mr. Gray', 'Parker']]","[[[28092, 28100], [28110, 28116]]]","[[['Dorian Gray'], ['Parker']]]"
+"Q76","Dorian Gray is my dearest friend, He has a simple and a beautiful nature. Your aunt was quite
+right in what she said of him. Don t spoil him. Don t try to influence
+him. Your influence would be bad. The world is wide, and has many
+marvellous people in it. Don t take away from me the one person who
+gives to my art whatever charm it possesses: my life as an artist
+depends on him. Mind, Harry, I trust you.","['Dorian Gray is my dearest friend,', 'He has a simple and a beautiful nature. Your aunt was quite\nright in what she said of him. Don t spoil him. Don t try to influence\nhim. Your influence would be bad. The world is wide, and has many\nmarvellous people in it. Don t take away from me the one person who\ngives to my art whatever charm it possesses: my life as an artist\ndepends on him. Mind, Harry, I trust you.']","[[28219, 28252], [28264, 28636]]","Basil Hallward","['Lord Henry']","Anaphoric","he said","[['Dorian Gray', 'Gray', 'my dearest friend'], ['He', 'she', 'him', 'him', 'him', 'Your', 'the one person who\ngives to my art whatever charm it possesses', 'him', 'Harry', 'you']]","[[[28219, 28230], [28226, 28230], [28234, 28251]], [[28264, 28266], [28338, 28341], [28350, 28353], [28367, 28370], [28395, 28398], [28400, 28404], [28510, 28572], [28606, 28609], [28617, 28622], [28632, 28635]]]","[[['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray']], [['Dorian Gray'], ['Lady Agatha'], ['Dorian Gray'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Dorian Gray'], ['Dorian Gray'], ['Lord Henry'], ['Lord Henry']]]"
+"Q77","What nonsense you talk!","['What nonsense you talk!']","[[28725, 28748]]","Lord Henry","['Basil Hallward']","Explicit","said Lord Henry","[['you']]","[[[28739, 28742]]]","[[['Basil Hallward']]]"
