@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+       QUOTE     0.9485    0.8052    0.8710       847
+
+   micro avg     0.9485    0.8052    0.8710       847
+   macro avg     0.9485    0.8052    0.8710       847
+weighted avg     0.9485    0.8052    0.8710       847
+
+Micro F1: 0.8710089399744573
+Macro F1: 0.8710089399744573
